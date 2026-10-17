@@ -1,0 +1,232 @@
+#%PAGESPACE_SHEETDOC v1
+page_id = "at64v8fboqe3d7000k7nn1ki"
+
+[[sheets]]
+name = "Sheet1"
+order = 0
+
+[sheets.meta]
+row_count = 20
+column_count = 11
+
+[sheets.cells.A1]
+value = "Account"
+type = "string"
+
+[sheets.cells.A2]
+value = "Cascade Café (Downtown)"
+type = "string"
+
+[sheets.cells.A3]
+value = "Riverside Taproom"
+type = "string"
+
+[sheets.cells.A4]
+value = "Grandview Grocery"
+type = "string"
+
+[sheets.cells.A5]
+value = "Farmers market (Sundays)"
+type = "string"
+
+[sheets.cells.A6]
+value = "Web shop"
+type = "string"
+
+[sheets.cells.B1]
+value = "Type"
+type = "string"
+
+[sheets.cells.B2]
+value = "Wholesale café"
+type = "string"
+
+[sheets.cells.B3]
+value = "Wholesale café"
+type = "string"
+
+[sheets.cells.B4]
+value = "Wholesale retail"
+type = "string"
+
+[sheets.cells.B5]
+value = "Direct"
+type = "string"
+
+[sheets.cells.B6]
+value = "Direct"
+type = "string"
+
+[sheets.cells.C1]
+value = "Contact"
+type = "string"
+
+[sheets.cells.C5]
+value = "—"
+type = "string"
+
+[sheets.cells.C6]
+value = "—"
+type = "string"
+
+[sheets.cells.D1]
+value = "Email"
+type = "string"
+
+[sheets.cells.E1]
+value = "Phone"
+type = "string"
+
+[sheets.cells.E5]
+value = "—"
+type = "string"
+
+[sheets.cells.E6]
+value = "—"
+type = "string"
+
+[sheets.cells.F1]
+value = "Products they buy"
+type = "string"
+
+[sheets.cells.F2]
+value = "House Blend 5 lb ×4/wk; Ethiopia 12 oz ×6/mo"
+type = "string"
+
+[sheets.cells.F3]
+value = "House Blend 5 lb ×2/wk"
+type = "string"
+
+[sheets.cells.F4]
+value = "12 oz bags ×24/mo mixed"
+type = "string"
+
+[sheets.cells.F5]
+value = "Retail bags + brew bar"
+type = "string"
+
+[sheets.cells.F6]
+value = "All retail SKUs"
+type = "string"
+
+[sheets.cells.G1]
+value = "Delivery day"
+type = "string"
+
+[sheets.cells.G2]
+value = "Tuesday"
+type = "string"
+
+[sheets.cells.G3]
+value = "Friday"
+type = "string"
+
+[sheets.cells.G4]
+value = "Monday"
+type = "string"
+
+[sheets.cells.G5]
+value = "Sunday"
+type = "string"
+
+[sheets.cells.G6]
+value = "Ship Mon/Thu"
+type = "string"
+
+[sheets.cells.H1]
+value = "Payment terms"
+type = "string"
+
+[sheets.cells.H2]
+value = "Net 15"
+type = "string"
+
+[sheets.cells.H3]
+value = "Net 15"
+type = "string"
+
+[sheets.cells.H4]
+value = "Net 30"
+type = "string"
+
+[sheets.cells.H5]
+value = "Paid on sale"
+type = "string"
+
+[sheets.cells.H6]
+value = "Card at checkout"
+type = "string"
+
+[sheets.cells.I1]
+value = "First order"
+type = "string"
+
+[sheets.cells.I2]
+value = "2026-03-10"
+type = "string"
+
+[sheets.cells.I3]
+value = "2026-05-02"
+type = "string"
+
+[sheets.cells.I4]
+value = "2026-06-15"
+type = "string"
+
+[sheets.cells.I5]
+value = "2026-04-05"
+type = "string"
+
+[sheets.cells.I6]
+value = "2026-02-20"
+type = "string"
+
+[sheets.cells.J1]
+value = "Last order"
+type = "string"
+
+[sheets.cells.J2]
+value = "2026-09-08"
+type = "string"
+
+[sheets.cells.J3]
+value = "2026-09-04"
+type = "string"
+
+[sheets.cells.J4]
+value = "2026-09-07"
+type = "string"
+
+[sheets.cells.J5]
+value = "2026-09-06"
+type = "string"
+
+[sheets.cells.J6]
+value = "2026-09-08"
+type = "string"
+
+[sheets.cells.K1]
+value = "Notes"
+type = "string"
+
+[sheets.cells.K2]
+value = "Wants single-origin rotation card"
+type = "string"
+
+[sheets.cells.K3]
+value = "Also buys merch totes"
+type = "string"
+
+[sheets.cells.K4]
+value = "Invoices by email"
+type = "string"
+
+[sheets.cells.K5]
+value = "Seasonal — ends Nov"
+type = "string"
+
+[sheets.cells.K6]
+value = "Subscribe & save active"
+type = "string"
+
+

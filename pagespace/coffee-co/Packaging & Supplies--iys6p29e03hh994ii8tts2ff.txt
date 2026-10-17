@@ -1,0 +1,264 @@
+#%PAGESPACE_SHEETDOC v1
+page_id = "iys6p29e03hh994ii8tts2ff"
+
+[[sheets]]
+name = "Sheet1"
+order = 0
+
+[sheets.meta]
+row_count = 20
+column_count = 10
+
+[sheets.cells.A1]
+value = "Item"
+type = "string"
+
+[sheets.cells.A2]
+value = "12 oz kraft bag w/ valve"
+type = "string"
+
+[sheets.cells.A3]
+value = "5 lb bulk bag"
+type = "string"
+
+[sheets.cells.A4]
+value = "Degassing valves"
+type = "string"
+
+[sheets.cells.A5]
+value = "Heat-seal liners"
+type = "string"
+
+[sheets.cells.A6]
+value = "Shipping boxes (12-bag)"
+type = "string"
+
+[sheets.cells.A7]
+value = "Labels (house blend)"
+type = "string"
+
+[sheets.cells.A8]
+value = "Coffee sack tote (merch)"
+type = "string"
+
+[sheets.cells.B1]
+value = "Unit"
+type = "string"
+
+[sheets.cells.B2]
+value = "pcs"
+type = "string"
+
+[sheets.cells.B3]
+value = "pcs"
+type = "string"
+
+[sheets.cells.B4]
+value = "pcs"
+type = "string"
+
+[sheets.cells.B5]
+value = "pcs"
+type = "string"
+
+[sheets.cells.B6]
+value = "pcs"
+type = "string"
+
+[sheets.cells.B7]
+value = "pcs"
+type = "string"
+
+[sheets.cells.B8]
+value = "pcs"
+type = "string"
+
+[sheets.cells.C1]
+value = "On hand"
+type = "string"
+
+[sheets.cells.C2]
+value = 850
+type = "number"
+
+[sheets.cells.C3]
+value = 60
+type = "number"
+
+[sheets.cells.C4]
+value = 1200
+type = "number"
+
+[sheets.cells.C5]
+value = 400
+type = "number"
+
+[sheets.cells.C6]
+value = 45
+type = "number"
+
+[sheets.cells.C7]
+value = 300
+type = "number"
+
+[sheets.cells.C8]
+value = 25
+type = "number"
+
+[sheets.cells.D1]
+value = "Reorder at"
+type = "string"
+
+[sheets.cells.D2]
+value = 400
+type = "number"
+
+[sheets.cells.D3]
+value = 30
+type = "number"
+
+[sheets.cells.D4]
+value = 500
+type = "number"
+
+[sheets.cells.D5]
+value = 200
+type = "number"
+
+[sheets.cells.D6]
+value = 40
+type = "number"
+
+[sheets.cells.D7]
+value = 250
+type = "number"
+
+[sheets.cells.D8]
+value = 0
+type = "number"
+
+[sheets.cells.E1]
+value = "Supplier"
+type = "string"
+
+[sheets.cells.F1]
+value = "Last ordered"
+type = "string"
+
+[sheets.cells.F2]
+value = "2026-08-20"
+type = "string"
+
+[sheets.cells.F3]
+value = "2026-07-05"
+type = "string"
+
+[sheets.cells.F4]
+value = "2026-06-15"
+type = "string"
+
+[sheets.cells.F5]
+value = "2026-08-20"
+type = "string"
+
+[sheets.cells.F6]
+value = "2026-08-02"
+type = "string"
+
+[sheets.cells.F7]
+value = "2026-07-28"
+type = "string"
+
+[sheets.cells.F8]
+value = "2026-05-30"
+type = "string"
+
+[sheets.cells.G1]
+value = "Lead time (days)"
+type = "string"
+
+[sheets.cells.G2]
+value = 10
+type = "number"
+
+[sheets.cells.G3]
+value = 10
+type = "number"
+
+[sheets.cells.G4]
+value = 14
+type = "number"
+
+[sheets.cells.G5]
+value = 10
+type = "number"
+
+[sheets.cells.G6]
+value = 7
+type = "number"
+
+[sheets.cells.G7]
+value = 12
+type = "number"
+
+[sheets.cells.G8]
+value = 21
+type = "number"
+
+[sheets.cells.H1]
+value = "Cost per unit (USD)"
+type = "string"
+
+[sheets.cells.H2]
+value = 0.28
+type = "number"
+
+[sheets.cells.H3]
+value = 1.05
+type = "number"
+
+[sheets.cells.H4]
+value = 0.04
+type = "number"
+
+[sheets.cells.H5]
+value = 0.09
+type = "number"
+
+[sheets.cells.H6]
+value = 1.6
+type = "number"
+
+[sheets.cells.H7]
+value = 0.11
+type = "number"
+
+[sheets.cells.H8]
+value = 4.5
+type = "number"
+
+[sheets.cells.I1]
+value = "Notes"
+type = "string"
+
+[sheets.cells.I2]
+value = "Standard retail bag"
+type = "string"
+
+[sheets.cells.I3]
+value = "Wholesale"
+type = "string"
+
+[sheets.cells.I6]
+value = "Below reorder — order now"
+type = "string"
+
+[sheets.cells.I7]
+value = "Check artwork version"
+type = "string"
+
+[sheets.cells.I8]
+value = "Non-critical merch"
+type = "string"
+
+

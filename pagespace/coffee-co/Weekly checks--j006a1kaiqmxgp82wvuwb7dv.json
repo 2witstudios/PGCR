@@ -1,0 +1,122 @@
+{
+  "page": {
+    "id": "j006a1kaiqmxgp82wvuwb7dv",
+    "title": "Weekly checks",
+    "type": "TASK_LIST",
+    "hasChildren": true,
+    "isTaskLinked": true
+  },
+  "pageId": "j006a1kaiqmxgp82wvuwb7dv",
+  "pageTitle": "Weekly checks",
+  "pageType": "TASK_LIST",
+  "taskListId": "wwyht8r8qf00fzx7qphmasry",
+  "parentTaskList": {
+    "pageId": "z4gqxx4tq9f40iuz04n6ag25",
+    "title": "Equipment Maintenance",
+    "taskListId": "rk6nzvpq8lb8w8mt9htztzjp"
+  },
+  "totalLines": 1,
+  "numberedLines": [
+    "   1 | "
+  ],
+  "content": "",
+  "tasks": [
+    {
+      "id": "j2yoq593u7tcxx7is7r50796",
+      "title": "Clean cooling tray fan and screen",
+      "status": "pending",
+      "priority": "medium",
+      "assigneeId": null,
+      "assigneeAgentId": null,
+      "dueDate": null,
+      "position": 1,
+      "completedAt": null,
+      "pageId": "et8uo70h7out9ff6kcnykriv",
+      "assignee": null,
+      "assigneeAgent": null,
+      "assignees": [],
+      "hasContent": false,
+      "subTaskCount": 0,
+      "subTaskCompletedCount": 0
+    },
+    {
+      "id": "moxzzfsv7hg1lffxul9fjywp",
+      "title": "Check machine for gas smells / leaks",
+      "status": "pending",
+      "priority": "medium",
+      "assigneeId": null,
+      "assigneeAgentId": null,
+      "dueDate": null,
+      "position": 1,
+      "completedAt": null,
+      "pageId": "tjmyzhokq1b26t1rba430pfg",
+      "assignee": null,
+      "assigneeAgent": null,
+      "assignees": [],
+      "hasContent": false,
+      "subTaskCount": 0,
+      "subTaskCompletedCount": 0
+    },
+    {
+      "id": "piceyuhtqfky2aye5cgynjet",
+      "title": "Empty & brush chaff tray (every roast day)",
+      "status": "pending",
+      "priority": "medium",
+      "assigneeId": null,
+      "assigneeAgentId": null,
+      "dueDate": null,
+      "position": 1,
+      "completedAt": null,
+      "pageId": "ot99sha1ep15dorypk8h7oi8",
+      "assignee": null,
+      "assigneeAgent": null,
+      "assignees": [],
+      "hasContent": false,
+      "subTaskCount": 0,
+      "subTaskCompletedCount": 0
+    }
+  ],
+  "availableStatuses": [
+    {
+      "slug": "pending",
+      "label": "To Do",
+      "group": "todo",
+      "position": 0,
+      "color": "bg-slate-100 text-slate-700 dark:bg-slate-800 dark:text-slate-300"
+    },
+    {
+      "slug": "in_progress",
+      "label": "In Progress",
+      "group": "in_progress",
+      "position": 1,
+      "color": "bg-amber-100 text-amber-700 dark:bg-amber-900 dark:text-amber-300"
+    },
+    {
+      "slug": "blocked",
+      "label": "Blocked",
+      "group": "in_progress",
+      "position": 2,
+      "color": "bg-red-100 text-red-700 dark:bg-red-900 dark:text-red-300"
+    },
+    {
+      "slug": "completed",
+      "label": "Done",
+      "group": "done",
+      "position": 3,
+      "color": "bg-green-100 text-green-700 dark:bg-green-900 dark:text-green-300"
+    }
+  ],
+  "progress": {
+    "total": 3,
+    "percentage": 0,
+    "byGroup": {
+      "todo": 3,
+      "in_progress": 0,
+      "done": 0
+    },
+    "bySlug": {
+      "pending": 3
+    }
+  }
+}
+

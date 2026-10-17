@@ -1,0 +1,33 @@
+# ☕ Coffee Co. — Start Here
+
+Welcome to the roastery's workspace. Everything the business runs on lives here; this page says what goes where.
+
+## The map
+
+| Folder | What lives there |
+| --- | --- |
+| **Operations** | The roasting floor: Roasting Log, Roasting SOP, Equipment Maintenance |
+| **Sourcing & Inventory** | Green Bean Inventory, Supplier Directory, Packaging & Supplies |
+| **Quality Control** | Cupping & QC Log, Brew & Extraction Log |
+| **Sales & Marketing** | Customers & Accounts, Product Catalog & Pricing, Marketing Calendar |
+| **Finance** | Monthly Budget, COGS & Pricing Calculator |
+| **Team** | Team Handbook, Training Checklist |
+| **Plans** | Project & build-out plans |
+
+## Working conventions
+
+1. **Roast log first.** Every batch gets a row in the Roasting Log before bags leave the floor. If it isn't logged, it didn't happen.
+2. **One name per coffee.** Use the same canonical name everywhere (e.g. `Ethiopia Guji Natural`) — inventory, roast log, QC, catalog. Cross-referencing depends on it.
+3. **Dates as `YYYY-MM-DD`.** Sorts correctly everywhere.
+4. **kg for weight, USD for money.** Numbers stored plain (no `$` or commas) so math works; units live in the headers.
+5. **Sample data is fake.** The starter rows use fictional names and numbers — replace them as real data arrives.
+6. **Edit in place.** Fix the row you have instead of starting a new sheet.
+
+## Quick routes
+
+- Roasting today → **Operations → Roasting Log**
+- Green coffee arrived → **Sourcing & Inventory → Green Bean Inventory**
+- New café customer → **Sales & Marketing → Customers & Accounts**
+- Price a new SKU → **Finance → COGS & Pricing Calculator**, then update the catalog
+- New hire → **Team → Training Checklist**
+

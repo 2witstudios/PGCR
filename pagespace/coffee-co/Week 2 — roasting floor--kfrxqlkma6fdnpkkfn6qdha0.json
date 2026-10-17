@@ -1,0 +1,140 @@
+{
+  "page": {
+    "id": "kfrxqlkma6fdnpkkfn6qdha0",
+    "title": "Week 2 — roasting floor",
+    "type": "TASK_LIST",
+    "hasChildren": true,
+    "isTaskLinked": true
+  },
+  "pageId": "kfrxqlkma6fdnpkkfn6qdha0",
+  "pageTitle": "Week 2 — roasting floor",
+  "pageType": "TASK_LIST",
+  "taskListId": "wswfupi62jzha6fawcud49qi",
+  "parentTaskList": {
+    "pageId": "zj6ac0574oxz4o0e9lzvel5y",
+    "title": "Training Checklist",
+    "taskListId": "q3ccwkwgb8aq06ynjsq2t8l0"
+  },
+  "totalLines": 1,
+  "numberedLines": [
+    "   1 | "
+  ],
+  "content": "",
+  "tasks": [
+    {
+      "id": "afjcyr1wm53e6yt973wpvyaf",
+      "title": "Clean chaff tray, cooling tray; shut down machine",
+      "status": "pending",
+      "priority": "medium",
+      "assigneeId": null,
+      "assigneeAgentId": null,
+      "dueDate": null,
+      "position": 1,
+      "completedAt": null,
+      "pageId": "p7lf2d2tmmx1jajrswwfvlup",
+      "assignee": null,
+      "assigneeAgent": null,
+      "assignees": [],
+      "hasContent": false,
+      "subTaskCount": 0,
+      "subTaskCompletedCount": 0
+    },
+    {
+      "id": "gh9s1y04j263c5zrb53j673n",
+      "title": "Charge and roast one batch under supervision",
+      "status": "pending",
+      "priority": "medium",
+      "assigneeId": null,
+      "assigneeAgentId": null,
+      "dueDate": null,
+      "position": 1,
+      "completedAt": null,
+      "pageId": "nt6beegra2679xsnlx9fl040",
+      "assignee": null,
+      "assigneeAgent": null,
+      "assignees": [],
+      "hasContent": false,
+      "subTaskCount": 0,
+      "subTaskCompletedCount": 0
+    },
+    {
+      "id": "r1t5mgkoio1pw9qs725pucw5",
+      "title": "Perform daily startup under supervision",
+      "status": "pending",
+      "priority": "medium",
+      "assigneeId": null,
+      "assigneeAgentId": null,
+      "dueDate": null,
+      "position": 1,
+      "completedAt": null,
+      "pageId": "k3hatdnzqluv6cq9flvg9o7w",
+      "assignee": null,
+      "assigneeAgent": null,
+      "assignees": [],
+      "hasContent": false,
+      "subTaskCount": 0,
+      "subTaskCompletedCount": 0
+    },
+    {
+      "id": "s1hw64n4z7z9z44tf5lf7aqp",
+      "title": "Log the batch in the Roasting Log (all fields)",
+      "status": "pending",
+      "priority": "medium",
+      "assigneeId": null,
+      "assigneeAgentId": null,
+      "dueDate": null,
+      "position": 1,
+      "completedAt": null,
+      "pageId": "g2apu2btrhl797v18cfgjeve",
+      "assignee": null,
+      "assigneeAgent": null,
+      "assignees": [],
+      "hasContent": false,
+      "subTaskCount": 0,
+      "subTaskCompletedCount": 0
+    }
+  ],
+  "availableStatuses": [
+    {
+      "slug": "pending",
+      "label": "To Do",
+      "group": "todo",
+      "position": 0,
+      "color": "bg-slate-100 text-slate-700 dark:bg-slate-800 dark:text-slate-300"
+    },
+    {
+      "slug": "in_progress",
+      "label": "In Progress",
+      "group": "in_progress",
+      "position": 1,
+      "color": "bg-amber-100 text-amber-700 dark:bg-amber-900 dark:text-amber-300"
+    },
+    {
+      "slug": "blocked",
+      "label": "Blocked",
+      "group": "in_progress",
+      "position": 2,
+      "color": "bg-red-100 text-red-700 dark:bg-red-900 dark:text-red-300"
+    },
+    {
+      "slug": "completed",
+      "label": "Done",
+      "group": "done",
+      "position": 3,
+      "color": "bg-green-100 text-green-700 dark:bg-green-900 dark:text-green-300"
+    }
+  ],
+  "progress": {
+    "total": 4,
+    "percentage": 0,
+    "byGroup": {
+      "todo": 4,
+      "in_progress": 0,
+      "done": 0
+    },
+    "bySlug": {
+      "pending": 4
+    }
+  }
+}
+

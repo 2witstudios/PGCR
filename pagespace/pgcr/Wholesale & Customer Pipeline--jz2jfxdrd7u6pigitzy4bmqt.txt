@@ -1,0 +1,64 @@
+#%PAGESPACE_SHEETDOC v1
+page_id = "jz2jfxdrd7u6pigitzy4bmqt"
+
+[[sheets]]
+name = "Sheet1"
+order = 0
+
+[sheets.meta]
+row_count = 20
+column_count = 10
+
+[sheets.cells.A1]
+value = "Account / Customer"
+type = "string"
+
+[sheets.cells.A2]
+value = "Pilot Wholesale Account"
+type = "string"
+
+[sheets.cells.B1]
+value = "Type"
+type = "string"
+
+[sheets.cells.B2]
+value = "Wholesale"
+type = "string"
+
+[sheets.cells.C1]
+value = "Contact"
+type = "string"
+
+[sheets.cells.D1]
+value = "Channel"
+type = "string"
+
+[sheets.cells.E1]
+value = "Stage"
+type = "string"
+
+[sheets.cells.E2]
+value = "Prospect"
+type = "string"
+
+[sheets.cells.F1]
+value = "Last Contact"
+type = "string"
+
+[sheets.cells.G1]
+value = "Next Step"
+type = "string"
+
+[sheets.cells.H1]
+value = "Potential Monthly Revenue"
+type = "string"
+
+[sheets.cells.I1]
+value = "Owner"
+type = "string"
+
+[sheets.cells.J1]
+value = "Notes"
+type = "string"
+
+

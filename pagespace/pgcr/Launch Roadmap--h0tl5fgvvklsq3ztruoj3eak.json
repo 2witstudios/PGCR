@@ -1,0 +1,154 @@
+{
+  "page": {
+    "id": "h0tl5fgvvklsq3ztruoj3eak",
+    "title": "Launch Roadmap",
+    "type": "TASK_LIST",
+    "hasChildren": true,
+    "isTaskLinked": false
+  },
+  "pageId": "h0tl5fgvvklsq3ztruoj3eak",
+  "pageTitle": "Launch Roadmap",
+  "pageType": "TASK_LIST",
+  "taskListId": "aarhrprc9w8tlz9jhsau8hcp",
+  "parentTaskList": null,
+  "totalLines": 1,
+  "numberedLines": [
+    "   1 | "
+  ],
+  "content": "",
+  "tasks": [
+    {
+      "id": "dutvsovct2eq3svim0071yjk",
+      "title": "Research permits, labeling, food safety, and insurance requirements",
+      "status": "pending",
+      "priority": "high",
+      "assigneeId": null,
+      "assigneeAgentId": null,
+      "dueDate": null,
+      "position": 1,
+      "completedAt": null,
+      "pageId": "s7ile5smf2rnicw2bypn1dgo",
+      "assignee": null,
+      "assigneeAgent": null,
+      "assignees": [],
+      "hasContent": false,
+      "subTaskCount": 0,
+      "subTaskCompletedCount": 0
+    },
+    {
+      "id": "fsnnqokbhjfl4as3ubj1trs8",
+      "title": "Define initial product lineup and bag sizes",
+      "status": "pending",
+      "priority": "high",
+      "assigneeId": null,
+      "assigneeAgentId": null,
+      "dueDate": null,
+      "position": 1,
+      "completedAt": null,
+      "pageId": "xbxryozh2hu5pzrakf8xujql",
+      "assignee": null,
+      "assigneeAgent": null,
+      "assignees": [],
+      "hasContent": false,
+      "subTaskCount": 0,
+      "subTaskCompletedCount": 0
+    },
+    {
+      "id": "iniloxbwf7ka16letvjxuxu6",
+      "title": "Run a small validation roast and collect customer feedback",
+      "status": "pending",
+      "priority": "medium",
+      "assigneeId": null,
+      "assigneeAgentId": null,
+      "dueDate": null,
+      "position": 1,
+      "completedAt": null,
+      "pageId": "wd7e33t47n6wzytripto6nuq",
+      "assignee": null,
+      "assigneeAgent": null,
+      "assignees": [],
+      "hasContent": false,
+      "subTaskCount": 0,
+      "subTaskCompletedCount": 0
+    },
+    {
+      "id": "mv6u33squezpzozao4j8ffrr",
+      "title": "Confirm roasting workspace, equipment, and capacity",
+      "status": "pending",
+      "priority": "high",
+      "assigneeId": null,
+      "assigneeAgentId": null,
+      "dueDate": null,
+      "position": 1,
+      "completedAt": null,
+      "pageId": "kbzeuel7vxqlgwbhpooqfdc5",
+      "assignee": null,
+      "assigneeAgent": null,
+      "assignees": [],
+      "hasContent": false,
+      "subTaskCount": 0,
+      "subTaskCompletedCount": 0
+    },
+    {
+      "id": "u8h42qzah2p46t52yfxk5220",
+      "title": "Complete first-pass costing and retail pricing",
+      "status": "pending",
+      "priority": "high",
+      "assigneeId": null,
+      "assigneeAgentId": null,
+      "dueDate": null,
+      "position": 1,
+      "completedAt": null,
+      "pageId": "fjpm57qk80oy46scg2bnudi1",
+      "assignee": null,
+      "assigneeAgent": null,
+      "assignees": [],
+      "hasContent": false,
+      "subTaskCount": 0,
+      "subTaskCompletedCount": 0
+    }
+  ],
+  "availableStatuses": [
+    {
+      "slug": "pending",
+      "label": "To Do",
+      "group": "todo",
+      "position": 0,
+      "color": "bg-slate-100 text-slate-700 dark:bg-slate-800 dark:text-slate-300"
+    },
+    {
+      "slug": "in_progress",
+      "label": "In Progress",
+      "group": "in_progress",
+      "position": 1,
+      "color": "bg-amber-100 text-amber-700 dark:bg-amber-900 dark:text-amber-300"
+    },
+    {
+      "slug": "blocked",
+      "label": "Blocked",
+      "group": "in_progress",
+      "position": 2,
+      "color": "bg-red-100 text-red-700 dark:bg-red-900 dark:text-red-300"
+    },
+    {
+      "slug": "completed",
+      "label": "Done",
+      "group": "done",
+      "position": 3,
+      "color": "bg-green-100 text-green-700 dark:bg-green-900 dark:text-green-300"
+    }
+  ],
+  "progress": {
+    "total": 5,
+    "percentage": 0,
+    "byGroup": {
+      "todo": 5,
+      "in_progress": 0,
+      "done": 0
+    },
+    "bySlug": {
+      "pending": 5
+    }
+  }
+}
+

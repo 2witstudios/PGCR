@@ -1,0 +1,16 @@
+PGCR recovered materials — 2026-10-17
+
+pagespace/pgcr: 25 entries from the PGCR drive, including business plan, vision, brand messaging, launch tasks, SOPs, pricing, inventory and customer pipeline.
+pagespace/coffee-co: 62 entries from the separate Coffee Co. drive, including a website, roasting and quality logs, inventory, pricing, budgets and training tasks. Connection to PGCR is unconfirmed; retained separately as related coffee material.
+local: four coffee/bean PNG images copied from /Users/jono/Downloads. Connection to PGCR is unconfirmed.
+historical: matching records recovered from local PageSpace backups dated 2026-02-08 and 2026-05-08, including Coffee Roaster Letter (PageSpace outreach rather than PGCR business material).
+INDEX.csv: page titles, IDs and export locations. JSON exports preserve returned structured data; adjacent TXT/HTML files contain returned page content.
+MANIFEST.csv: file sizes and SHA-256 checksums.
+
+Recovery limitation:
+The February backup references PGCR Full_Stack_W.png, page m9cdvypcmoue8dff2bovgofc, in the Daisy Debate drive. Its backup record contains no image bytes and current pages.read denied access (requires drive scope). The logo itself has NOT been recovered; its historical metadata is retained in matching-pages.json.
+
+Search coverage:
+PageSpace content search across 53 accessible drives for PGCR, Pleasant Grove, coffee and roast terms; full recursive listing and page reads for PGCR and Coffee Co. Local filename searches across home directories excluding software dependencies/caches, content searches across production, Projects, development, Documents, Desktop, Downloads, private, public repos and backups; two local PageSpace backup snapshots. Spotlight returned no additional hits. Some system/cloud files may be unavailable or unindexed; this is a collection of accessible findings, not a guarantee of exhaustive recovery.
+
+Original files and PageSpace records were preserved. No source was moved or deleted. Exports are snapshots and do not sync automatically.

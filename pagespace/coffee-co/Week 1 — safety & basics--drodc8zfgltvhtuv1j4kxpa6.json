@@ -1,0 +1,181 @@
+{
+  "page": {
+    "id": "drodc8zfgltvhtuv1j4kxpa6",
+    "title": "Week 1 — safety & basics",
+    "type": "TASK_LIST",
+    "hasChildren": true,
+    "isTaskLinked": true
+  },
+  "pageId": "drodc8zfgltvhtuv1j4kxpa6",
+  "pageTitle": "Week 1 — safety & basics",
+  "pageType": "TASK_LIST",
+  "taskListId": "ip1ctu8kl370lqk0xid6f8mk",
+  "parentTaskList": {
+    "pageId": "zj6ac0574oxz4o0e9lzvel5y",
+    "title": "Training Checklist",
+    "taskListId": "q3ccwkwgb8aq06ynjsq2t8l0"
+  },
+  "totalLines": 1,
+  "numberedLines": [
+    "   1 | "
+  ],
+  "content": "",
+  "tasks": [
+    {
+      "id": "edkdug5i5bpwamq7mqx82yes",
+      "title": "Read Roasting SOP sections 1–3",
+      "status": "pending",
+      "priority": "medium",
+      "assigneeId": null,
+      "assigneeAgentId": "xihq4mqth5achohchoqcvvwh",
+      "dueDate": null,
+      "position": 1,
+      "completedAt": null,
+      "pageId": "lag0ju9161np7onpsftaoi1i",
+      "assignee": null,
+      "assigneeAgent": {
+        "id": "xihq4mqth5achohchoqcvvwh",
+        "title": "Coffee Bot",
+        "type": "AI_CHAT"
+      },
+      "assignees": [
+        {
+          "userId": null,
+          "agentPageId": "xihq4mqth5achohchoqcvvwh",
+          "user": null,
+          "agentPage": {
+            "id": "xihq4mqth5achohchoqcvvwh",
+            "title": "Coffee Bot"
+          }
+        }
+      ],
+      "hasContent": false,
+      "subTaskCount": 0,
+      "subTaskCompletedCount": 0
+    },
+    {
+      "id": "gomucv8is7c0ghr6wvjudfxw",
+      "title": "Read the Team Handbook top to bottom",
+      "status": "pending",
+      "priority": "medium",
+      "assigneeId": "u7zwr94isv40f81dbyamsw3e",
+      "assigneeAgentId": "xihq4mqth5achohchoqcvvwh",
+      "dueDate": null,
+      "position": 1,
+      "completedAt": null,
+      "pageId": "gq8mq6qp5b6lltaqc5o3f8mz",
+      "assignee": {
+        "id": "u7zwr94isv40f81dbyamsw3e",
+        "name": "Sarah Smith",
+        "image": "/api/avatar/u7zwr94isv40f81dbyamsw3e/avatar.png?t=1771545348538"
+      },
+      "assigneeAgent": {
+        "id": "xihq4mqth5achohchoqcvvwh",
+        "title": "Coffee Bot",
+        "type": "AI_CHAT"
+      },
+      "assignees": [
+        {
+          "userId": "u7zwr94isv40f81dbyamsw3e",
+          "agentPageId": null,
+          "user": {
+            "id": "u7zwr94isv40f81dbyamsw3e",
+            "name": "Sarah Smith"
+          },
+          "agentPage": null
+        },
+        {
+          "userId": null,
+          "agentPageId": "xihq4mqth5achohchoqcvvwh",
+          "user": null,
+          "agentPage": {
+            "id": "xihq4mqth5achohchoqcvvwh",
+            "title": "Coffee Bot"
+          }
+        }
+      ],
+      "hasContent": false,
+      "subTaskCount": 0,
+      "subTaskCompletedCount": 0
+    },
+    {
+      "id": "rb5e4m03rlalulst2rj3f4yc",
+      "title": "Roastery safety walkthrough (gas, fire, ventilation, PPE)",
+      "status": "pending",
+      "priority": "medium",
+      "assigneeId": null,
+      "assigneeAgentId": null,
+      "dueDate": null,
+      "position": 1,
+      "completedAt": null,
+      "pageId": "i6ibcmmbiv8f6ffjkqm717xq",
+      "assignee": null,
+      "assigneeAgent": null,
+      "assignees": [],
+      "hasContent": false,
+      "subTaskCount": 0,
+      "subTaskCompletedCount": 0
+    },
+    {
+      "id": "zmk0mupxfx53vqixac4acm9x",
+      "title": "Shadow one full roast day",
+      "status": "pending",
+      "priority": "medium",
+      "assigneeId": null,
+      "assigneeAgentId": null,
+      "dueDate": null,
+      "position": 1,
+      "completedAt": null,
+      "pageId": "ht3l5v6c68m0qlv1680ogpsc",
+      "assignee": null,
+      "assigneeAgent": null,
+      "assignees": [],
+      "hasContent": false,
+      "subTaskCount": 0,
+      "subTaskCompletedCount": 0
+    }
+  ],
+  "availableStatuses": [
+    {
+      "slug": "pending",
+      "label": "To Do",
+      "group": "todo",
+      "position": 0,
+      "color": "bg-slate-100 text-slate-700 dark:bg-slate-800 dark:text-slate-300"
+    },
+    {
+      "slug": "in_progress",
+      "label": "In Progress",
+      "group": "in_progress",
+      "position": 1,
+      "color": "bg-amber-100 text-amber-700 dark:bg-amber-900 dark:text-amber-300"
+    },
+    {
+      "slug": "blocked",
+      "label": "Blocked",
+      "group": "in_progress",
+      "position": 2,
+      "color": "bg-red-100 text-red-700 dark:bg-red-900 dark:text-red-300"
+    },
+    {
+      "slug": "completed",
+      "label": "Done",
+      "group": "done",
+      "position": 3,
+      "color": "bg-green-100 text-green-700 dark:bg-green-900 dark:text-green-300"
+    }
+  ],
+  "progress": {
+    "total": 4,
+    "percentage": 0,
+    "byGroup": {
+      "todo": 4,
+      "in_progress": 0,
+      "done": 0
+    },
+    "bySlug": {
+      "pending": 4
+    }
+  }
+}
+

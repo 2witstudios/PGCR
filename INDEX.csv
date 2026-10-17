@@ -1,0 +1,88 @@
+source,title,type,id,file
+PageSpace pgcr,Brand & Content,FOLDER,evs7arwqcnqubfw0yy04uie3,pagespace/pgcr/Brand & Content--evs7arwqcnqubfw0yy04uie3.json
+PageSpace pgcr,Brand Voice & Messaging,DOCUMENT,lmo6phg97pn95hp9tq9bwfkk,pagespace/pgcr/Brand Voice & Messaging--lmo6phg97pn95hp9tq9bwfkk.json
+PageSpace pgcr,Business Plan,DOCUMENT,bxu6hj4wdihkbt3rs6xczlj1,pagespace/pgcr/Business Plan--bxu6hj4wdihkbt3rs6xczlj1.json
+PageSpace pgcr,Business Strategy,FOLDER,pd74nu31lfaxd1vegwqi8ooh,pagespace/pgcr/Business Strategy--pd74nu31lfaxd1vegwqi8ooh.json
+PageSpace pgcr,Complete first-pass costing and retail pricing,TASK_LIST,fjpm57qk80oy46scg2bnudi1,pagespace/pgcr/Complete first-pass costing and retail pricing--fjpm57qk80oy46scg2bnudi1.json
+PageSpace pgcr,"Confirm roasting workspace, equipment, and capacity",TASK_LIST,kbzeuel7vxqlgwbhpooqfdc5,"pagespace/pgcr/Confirm roasting workspace, equipment, and capacity--kbzeuel7vxqlgwbhpooqfdc5.json"
+PageSpace pgcr,Content Calendar,TASK_LIST,trqtuhq90b3zxgm8jeqzj4px,pagespace/pgcr/Content Calendar--trqtuhq90b3zxgm8jeqzj4px.json
+PageSpace pgcr,Costing & Pricing,SHEET,x2v7evhsr7gds7vq8uyb3m7n,pagespace/pgcr/Costing & Pricing--x2v7evhsr7gds7vq8uyb3m7n.json
+PageSpace pgcr,Create launch announcement,TASK_LIST,qij7wudfuraqtw6n0vtmxfj6,pagespace/pgcr/Create launch announcement--qij7wudfuraqtw6n0vtmxfj6.json
+PageSpace pgcr,Define initial product lineup and bag sizes,TASK_LIST,xbxryozh2hu5pzrakf8xujql,pagespace/pgcr/Define initial product lineup and bag sizes--xbxryozh2hu5pzrakf8xujql.json
+PageSpace pgcr,Document first customer story or testimonial,TASK_LIST,t016aw8q1lbdzsbo0gvosa6p,pagespace/pgcr/Document first customer story or testimonial--t016aw8q1lbdzsbo0gvosa6p.json
+PageSpace pgcr,Finance & Inventory,FOLDER,ach1dhi6sfmbtt329kbhmjdc,pagespace/pgcr/Finance & Inventory--ach1dhi6sfmbtt329kbhmjdc.json
+PageSpace pgcr,General,CHANNEL,oy4rn3v341v2w70xrmedau9e,pagespace/pgcr/General--oy4rn3v341v2w70xrmedau9e.json
+PageSpace pgcr,Inventory Tracker,SHEET,tqcojo82bmzcavpi1k8eahpc,pagespace/pgcr/Inventory Tracker--tqcojo82bmzcavpi1k8eahpc.json
+PageSpace pgcr,Launch Roadmap,TASK_LIST,h0tl5fgvvklsq3ztruoj3eak,pagespace/pgcr/Launch Roadmap--h0tl5fgvvklsq3ztruoj3eak.json
+PageSpace pgcr,Operations & Roasting,FOLDER,m5pcn28ny1kkylqiir54eud1,pagespace/pgcr/Operations & Roasting--m5pcn28ny1kkylqiir54eud1.json
+PageSpace pgcr,Plans,FOLDER,qa1gto1bbspxoexwnicthfvw,pagespace/pgcr/Plans--qa1gto1bbspxoexwnicthfvw.json
+PageSpace pgcr,Product Catalog,SHEET,u933k4jxwqb0v8xksj1nzuqw,pagespace/pgcr/Product Catalog--u933k4jxwqb0v8xksj1nzuqw.json
+PageSpace pgcr,Publish product education post,TASK_LIST,kojlwug783sid6yep7wui4gb,pagespace/pgcr/Publish product education post--kojlwug783sid6yep7wui4gb.json
+PageSpace pgcr,"Research permits, labeling, food safety, and insurance requirements",TASK_LIST,s7ile5smf2rnicw2bypn1dgo,"pagespace/pgcr/Research permits, labeling, food safety, and insurance requirements--s7ile5smf2rnicw2bypn1dgo.json"
+PageSpace pgcr,Roasting & Production SOPs,DOCUMENT,vkm6wty5r0bsf1otiss4s740,pagespace/pgcr/Roasting & Production SOPs--vkm6wty5r0bsf1otiss4s740.json
+PageSpace pgcr,Run a small validation roast and collect customer feedback,TASK_LIST,wd7e33t47n6wzytripto6nuq,pagespace/pgcr/Run a small validation roast and collect customer feedback--wd7e33t47n6wzytripto6nuq.json
+PageSpace pgcr,Sales & Marketing,FOLDER,qh174uppvusesq6p0e55p44w,pagespace/pgcr/Sales & Marketing--qh174uppvusesq6p0e55p44w.json
+PageSpace pgcr,Vision,DOCUMENT,oeqbxcf8u6x17sshdgrawv3m,pagespace/pgcr/Vision--oeqbxcf8u6x17sshdgrawv3m.json
+PageSpace pgcr,Wholesale & Customer Pipeline,SHEET,jz2jfxdrd7u6pigitzy4bmqt,pagespace/pgcr/Wholesale & Customer Pipeline--jz2jfxdrd7u6pigitzy4bmqt.json
+PageSpace coffee-co,Annual service,TASK_LIST,kr318s2mklb1ld9mwkw2sldp,pagespace/coffee-co/Annual service--kr318s2mklb1ld9mwkw2sldp.json
+PageSpace coffee-co,Brew & Extraction Log,SHEET,y5bpje2mzfuwjqdpzpc6vrit,pagespace/coffee-co/Brew & Extraction Log--y5bpje2mzfuwjqdpzpc6vrit.json
+PageSpace coffee-co,COGS & Pricing Calculator,SHEET,yqlvdi5402amst8415mg3kti,pagespace/coffee-co/COGS & Pricing Calculator--yqlvdi5402amst8415mg3kti.json
+PageSpace coffee-co,Calibrate scale and moisture meter,TASK_LIST,qzb5gf39ha0afbzhlojmytfv,pagespace/coffee-co/Calibrate scale and moisture meter--qzb5gf39ha0afbzhlojmytfv.json
+PageSpace coffee-co,Charge and roast one batch under supervision,TASK_LIST,nt6beegra2679xsnlx9fl040,pagespace/coffee-co/Charge and roast one batch under supervision--nt6beegra2679xsnlx9fl040.json
+PageSpace coffee-co,Check machine for gas smells / leaks,TASK_LIST,tjmyzhokq1b26t1rba430pfg,pagespace/coffee-co/Check machine for gas smells - leaks--tjmyzhokq1b26t1rba430pfg.json
+PageSpace coffee-co,Check thermocouple against reference thermometer,TASK_LIST,hx2hf5bjyuennfqkq5j4721v,pagespace/coffee-co/Check thermocouple against reference thermometer--hx2hf5bjyuennfqkq5j4721v.json
+PageSpace coffee-co,Chimney / afterburner inspection,TASK_LIST,vk7tli2pymli9n4waqlzz7c5,pagespace/coffee-co/Chimney - afterburner inspection--vk7tli2pymli9n4waqlzz7c5.json
+PageSpace coffee-co,"Clean chaff tray, cooling tray; shut down machine",TASK_LIST,p7lf2d2tmmx1jajrswwfvlup,"pagespace/coffee-co/Clean chaff tray, cooling tray; shut down machine--p7lf2d2tmmx1jajrswwfvlup.json"
+PageSpace coffee-co,Clean cooling tray fan and screen,TASK_LIST,et8uo70h7out9ff6kcnykriv,pagespace/coffee-co/Clean cooling tray fan and screen--et8uo70h7out9ff6kcnykriv.json
+PageSpace coffee-co,Coffee Bot,AI_CHAT,xihq4mqth5achohchoqcvvwh,pagespace/coffee-co/Coffee Bot--xihq4mqth5achohchoqcvvwh.json
+PageSpace coffee-co,Coffee Co. Drive Build-Out Plan,DOCUMENT,otgurd5wsp7pkscbu0ah1jbk,pagespace/coffee-co/Coffee Co. Drive Build-Out Plan--otgurd5wsp7pkscbu0ah1jbk.json
+PageSpace coffee-co,Cup with the team; enter scores in Cupping & QC Log,TASK_LIST,wu9ojpze2rx3eqksns23u9mv,pagespace/coffee-co/Cup with the team; enter scores in Cupping & QC Log--wu9ojpze2rx3eqksns23u9mv.json
+PageSpace coffee-co,Cupping & QC Log,SHEET,b9ieapp9gugzgrsjofxmk6h6,pagespace/coffee-co/Cupping & QC Log--b9ieapp9gugzgrsjofxmk6h6.json
+PageSpace coffee-co,Customers & Accounts,SHEET,at64v8fboqe3d7000k7nn1ki,pagespace/coffee-co/Customers & Accounts--at64v8fboqe3d7000k7nn1ki.json
+PageSpace coffee-co,Deep-clean grinder burrs,TASK_LIST,z3qa0ba37o7ednh3k898u81z,pagespace/coffee-co/Deep-clean grinder burrs--z3qa0ba37o7ednh3k898u81z.json
+PageSpace coffee-co,Dial in espresso and filter; log in Brew & Extraction Log,TASK_LIST,nj4gun6o2twxbjng35546ryh,pagespace/coffee-co/Dial in espresso and filter; log in Brew & Extraction Log--nj4gun6o2twxbjng35546ryh.json
+PageSpace coffee-co,Empty & brush chaff tray (every roast day),TASK_LIST,ot99sha1ep15dorypk8h7oi8,pagespace/coffee-co/Empty & brush chaff tray (every roast day)--ot99sha1ep15dorypk8h7oi8.json
+PageSpace coffee-co,Equipment Maintenance,TASK_LIST,z4gqxx4tq9f40iuz04n6ag25,pagespace/coffee-co/Equipment Maintenance--z4gqxx4tq9f40iuz04n6ag25.json
+PageSpace coffee-co,Final sign-off by head roaster,TASK_LIST,px40evnoq9e91m9kubyv6pcg,pagespace/coffee-co/Final sign-off by head roaster--px40evnoq9e91m9kubyv6pcg.json
+PageSpace coffee-co,Finance,FOLDER,b3gct8jezlzhtc6s6neqaslo,pagespace/coffee-co/Finance--b3gct8jezlzhtc6s6neqaslo.json
+PageSpace coffee-co,Fire extinguisher inspection & tag renewal,TASK_LIST,ex9uoyhx0yte7tyjpka8lhj2,pagespace/coffee-co/Fire extinguisher inspection & tag renewal--ex9uoyhx0yte7tyjpka8lhj2.json
+PageSpace coffee-co,Full service visit — book for December,TASK_LIST,lqb2yszq9szdklziquyzltit,pagespace/coffee-co/Full service visit — book for December--lqb2yszq9szdklziquyzltit.json
+PageSpace coffee-co,Green Bean Inventory,SHEET,xn4o487i1r9q8ohqq64ki8sp,pagespace/coffee-co/Green Bean Inventory--xn4o487i1r9q8ohqq64ki8sp.json
+PageSpace coffee-co,Inspect door gasket and drum seals,TASK_LIST,vk4e1lvmv1t2osx0q54wfny4,pagespace/coffee-co/Inspect door gasket and drum seals--vk4e1lvmv1t2osx0q54wfny4.json
+PageSpace coffee-co,Join one wholesale delivery route,TASK_LIST,dvtkebrwmzlfm6b66x219fr9,pagespace/coffee-co/Join one wholesale delivery route--dvtkebrwmzlfm6b66x219fr9.json
+PageSpace coffee-co,"Learn the product catalog (every SKU, blend, price)",TASK_LIST,pj1ldkhv2392o0aeiav4jny5,"pagespace/coffee-co/Learn the product catalog (every SKU, blend, price)--pj1ldkhv2392o0aeiav4jny5.json"
+PageSpace coffee-co,Log the batch in the Roasting Log (all fields),TASK_LIST,g2apu2btrhl797v18cfgjeve,pagespace/coffee-co/Log the batch in the Roasting Log (all fields)--g2apu2btrhl797v18cfgjeve.json
+PageSpace coffee-co,Lubricate bearings per manual,TASK_LIST,idinwgosuqfhpnqpyr7yvbds,pagespace/coffee-co/Lubricate bearings per manual--idinwgosuqfhpnqpyr7yvbds.json
+PageSpace coffee-co,Marketing Calendar,DOCUMENT,xkbbr0qvn3c08con682dyjqs,pagespace/coffee-co/Marketing Calendar--xkbbr0qvn3c08con682dyjqs.json
+PageSpace coffee-co,Monthly Budget,SHEET,lvatvwz5pfmqxi5816ebjgyh,pagespace/coffee-co/Monthly Budget--lvatvwz5pfmqxi5816ebjgyh.json
+PageSpace coffee-co,Monthly checks,TASK_LIST,eo4slrrn9o118j8s4cmtwnii,pagespace/coffee-co/Monthly checks--eo4slrrn9o118j8s4cmtwnii.json
+PageSpace coffee-co,My Website,CANVAS,fj1ot3wepzrtn74znep3gm3f,pagespace/coffee-co/My Website--fj1ot3wepzrtn74znep3gm3f.json
+PageSpace coffee-co,Operations,FOLDER,p4v9b1d6f24q673nazlf4axj,pagespace/coffee-co/Operations--p4v9b1d6f24q673nazlf4axj.json
+PageSpace coffee-co,Pack and label an order against its invoice,TASK_LIST,gk7fidzamr1158xhr8c202w8,pagespace/coffee-co/Pack and label an order against its invoice--gk7fidzamr1158xhr8c202w8.json
+PageSpace coffee-co,Packaging & Supplies,SHEET,iys6p29e03hh994ii8tts2ff,pagespace/coffee-co/Packaging & Supplies--iys6p29e03hh994ii8tts2ff.json
+PageSpace coffee-co,Perform daily startup under supervision,TASK_LIST,k3hatdnzqluv6cq9flvg9o7w,pagespace/coffee-co/Perform daily startup under supervision--k3hatdnzqluv6cq9flvg9o7w.json
+PageSpace coffee-co,Plans,FOLDER,ajye9fz7nv7agbtbbrq81y5k,pagespace/coffee-co/Plans--ajye9fz7nv7agbtbbrq81y5k.json
+PageSpace coffee-co,Product Catalog & Pricing,SHEET,fy8puvzg91iq9s6rgr19uorc,pagespace/coffee-co/Product Catalog & Pricing--fy8puvzg91iq9s6rgr19uorc.json
+PageSpace coffee-co,Quality Control,FOLDER,q4okzih2tgy8c7fdvwxrqga6,pagespace/coffee-co/Quality Control--q4okzih2tgy8c7fdvwxrqga6.json
+PageSpace coffee-co,Quarterly checks,TASK_LIST,wsticrxp1e94xcuie6c4szf3,pagespace/coffee-co/Quarterly checks--wsticrxp1e94xcuie6c4szf3.json
+PageSpace coffee-co,Read Roasting SOP sections 1–3,TASK_LIST,lag0ju9161np7onpsftaoi1i,pagespace/coffee-co/Read Roasting SOP sections 1–3--lag0ju9161np7onpsftaoi1i.json
+PageSpace coffee-co,Read the Team Handbook top to bottom,TASK_LIST,gq8mq6qp5b6lltaqc5o3f8mz,pagespace/coffee-co/Read the Team Handbook top to bottom--gq8mq6qp5b6lltaqc5o3f8mz.json
+PageSpace coffee-co,"Roastery safety walkthrough (gas, fire, ventilation, PPE)",TASK_LIST,i6ibcmmbiv8f6ffjkqm717xq,"pagespace/coffee-co/Roastery safety walkthrough (gas, fire, ventilation, PPE)--i6ibcmmbiv8f6ffjkqm717xq.json"
+PageSpace coffee-co,Roasting Log,SHEET,umvf486orvmzopdgsnadbq74,pagespace/coffee-co/Roasting Log--umvf486orvmzopdgsnadbq74.json
+PageSpace coffee-co,Roasting SOP,DOCUMENT,hd5rt711d0kf2d554zdrfl0n,pagespace/coffee-co/Roasting SOP--hd5rt711d0kf2d554zdrfl0n.json
+PageSpace coffee-co,Sales & Marketing,FOLDER,dmx53w1wmb1isrv60ydmnpaq,pagespace/coffee-co/Sales & Marketing--dmx53w1wmb1isrv60ydmnpaq.json
+PageSpace coffee-co,Shadow one full roast day,TASK_LIST,ht3l5v6c68m0qlv1680ogpsc,pagespace/coffee-co/Shadow one full roast day--ht3l5v6c68m0qlv1680ogpsc.json
+PageSpace coffee-co,Sourcing & Inventory,FOLDER,kt0s4jnw4krr93dk91qe5dn1,pagespace/coffee-co/Sourcing & Inventory--kt0s4jnw4krr93dk91qe5dn1.json
+PageSpace coffee-co,Start Here,DOCUMENT,fmioikbpweldpifd853qh0o5,pagespace/coffee-co/Start Here--fmioikbpweldpifd853qh0o5.json
+PageSpace coffee-co,Supplier Directory,DOCUMENT,irm6ds45av2dbc451z5un38c,pagespace/coffee-co/Supplier Directory--irm6ds45av2dbc451z5un38c.json
+PageSpace coffee-co,Team Chat,CHANNEL,xgbipeatkenuer8qmbozcz4c,pagespace/coffee-co/Team Chat--xgbipeatkenuer8qmbozcz4c.json
+PageSpace coffee-co,Team Handbook,DOCUMENT,ozty7i5c3ywjiowk10p24rrh,pagespace/coffee-co/Team Handbook--ozty7i5c3ywjiowk10p24rrh.json
+PageSpace coffee-co,Team,FOLDER,i3ik8o2l886is0hb2msfsl1r,pagespace/coffee-co/Team--i3ik8o2l886is0hb2msfsl1r.json
+PageSpace coffee-co,Training Checklist,TASK_LIST,zj6ac0574oxz4o0e9lzvel5y,pagespace/coffee-co/Training Checklist--zj6ac0574oxz4o0e9lzvel5y.json
+PageSpace coffee-co,Vacuum drum interior and cyclone,TASK_LIST,zq3ph1x0oirbkviihq37pt84,pagespace/coffee-co/Vacuum drum interior and cyclone--zq3ph1x0oirbkviihq37pt84.json
+PageSpace coffee-co,Week 1 — safety & basics,TASK_LIST,drodc8zfgltvhtuv1j4kxpa6,pagespace/coffee-co/Week 1 — safety & basics--drodc8zfgltvhtuv1j4kxpa6.json
+PageSpace coffee-co,Week 2 — roasting floor,TASK_LIST,kfrxqlkma6fdnpkkfn6qdha0,pagespace/coffee-co/Week 2 — roasting floor--kfrxqlkma6fdnpkkfn6qdha0.json
+PageSpace coffee-co,Week 3 — coffee knowledge,TASK_LIST,vr7x2sx5vop2zi8a8p6nrmln,pagespace/coffee-co/Week 3 — coffee knowledge--vr7x2sx5vop2zi8a8p6nrmln.json
+PageSpace coffee-co,Week 4 — customer-facing,TASK_LIST,fdmfilweujfehpp2zwb2jxan,pagespace/coffee-co/Week 4 — customer-facing--fdmfilweujfehpp2zwb2jxan.json
+PageSpace coffee-co,Weekly checks,TASK_LIST,j006a1kaiqmxgp82wvuwb7dv,pagespace/coffee-co/Weekly checks--j006a1kaiqmxgp82wvuwb7dv.json
+PageSpace coffee-co,Work one farmers market shift (in season),TASK_LIST,i7xkxt3mbgtwf4ot2ocw7a84,pagespace/coffee-co/Work one farmers market shift (in season)--i7xkxt3mbgtwf4ot2ocw7a84.json

@@ -1,0 +1,276 @@
+#%PAGESPACE_SHEETDOC v1
+page_id = "b9ieapp9gugzgrsjofxmk6h6"
+
+[[sheets]]
+name = "Sheet1"
+order = 0
+
+[sheets.meta]
+row_count = 20
+column_count = 12
+
+[sheets.cells.A1]
+value = "Date"
+type = "string"
+
+[sheets.cells.A10]
+value = "7–7.9"
+type = "string"
+
+[sheets.cells.A11]
+value = "< 7"
+type = "string"
+
+[sheets.cells.A2]
+value = "2026-09-07"
+type = "string"
+
+[sheets.cells.A3]
+value = "2026-09-07"
+type = "string"
+
+[sheets.cells.A4]
+value = "2026-09-06"
+type = "string"
+
+[sheets.cells.A5]
+value = "2026-09-05"
+type = "string"
+
+[sheets.cells.A7]
+value = "Scoring guide"
+type = "string"
+
+[sheets.cells.A8]
+value = "9–10"
+type = "string"
+
+[sheets.cells.A9]
+value = "8–8.9"
+type = "string"
+
+[sheets.cells.B1]
+value = "Sample"
+type = "string"
+
+[sheets.cells.B10]
+value = "Marginal — adjust next roast"
+type = "string"
+
+[sheets.cells.B11]
+value = "Hold batch — cup vs reference; re-roast or blend"
+type = "string"
+
+[sheets.cells.B2]
+value = "Ethiopia Guji Natural"
+type = "string"
+
+[sheets.cells.B3]
+value = "House Blend"
+type = "string"
+
+[sheets.cells.B4]
+value = "Colombia La Esperanza"
+type = "string"
+
+[sheets.cells.B5]
+value = "Decaf Colombia (Sugarcane EA)"
+type = "string"
+
+[sheets.cells.B7]
+value = "what to do"
+type = "string"
+
+[sheets.cells.B8]
+value = "Outstanding — reserve / competition lot"
+type = "string"
+
+[sheets.cells.B9]
+value = "Passes — ship it"
+type = "string"
+
+[sheets.cells.C1]
+value = "Batch ref"
+type = "string"
+
+[sheets.cells.C2]
+value = "R-0921"
+type = "string"
+
+[sheets.cells.C3]
+value = "R-0922"
+type = "string"
+
+[sheets.cells.C4]
+value = "R-0918"
+type = "string"
+
+[sheets.cells.C5]
+value = "R-0915"
+type = "string"
+
+[sheets.cells.D1]
+value = "Roast level"
+type = "string"
+
+[sheets.cells.D2]
+value = "Light"
+type = "string"
+
+[sheets.cells.D3]
+value = "Medium"
+type = "string"
+
+[sheets.cells.D4]
+value = "Medium"
+type = "string"
+
+[sheets.cells.D5]
+value = "Med-dark"
+type = "string"
+
+[sheets.cells.E1]
+value = "Score /10"
+type = "string"
+
+[sheets.cells.E2]
+value = 8.4
+type = "number"
+
+[sheets.cells.E3]
+value = 7.9
+type = "number"
+
+[sheets.cells.E4]
+value = 7.2
+type = "number"
+
+[sheets.cells.E5]
+value = 7.6
+type = "number"
+
+[sheets.cells.F1]
+value = "Fragrance"
+type = "string"
+
+[sheets.cells.F2]
+value = "Blueberry, jasmine"
+type = "string"
+
+[sheets.cells.F3]
+value = "Cocoa, caramel"
+type = "string"
+
+[sheets.cells.F4]
+value = "Caramel"
+type = "string"
+
+[sheets.cells.F5]
+value = "Brown sugar"
+type = "string"
+
+[sheets.cells.G1]
+value = "Flavor"
+type = "string"
+
+[sheets.cells.G2]
+value = "Bright, complex"
+type = "string"
+
+[sheets.cells.G3]
+value = "Balanced"
+type = "string"
+
+[sheets.cells.G4]
+value = "Flat mid-palate"
+type = "string"
+
+[sheets.cells.G5]
+value = "Clean for decaf"
+type = "string"
+
+[sheets.cells.H1]
+value = "Acidity"
+type = "string"
+
+[sheets.cells.H2]
+value = "High"
+type = "string"
+
+[sheets.cells.H3]
+value = "Medium"
+type = "string"
+
+[sheets.cells.H4]
+value = "Low"
+type = "string"
+
+[sheets.cells.H5]
+value = "Low"
+type = "string"
+
+[sheets.cells.I1]
+value = "Body"
+type = "string"
+
+[sheets.cells.I2]
+value = "Medium"
+type = "string"
+
+[sheets.cells.I3]
+value = "Heavy"
+type = "string"
+
+[sheets.cells.I4]
+value = "Medium"
+type = "string"
+
+[sheets.cells.I5]
+value = "Heavy"
+type = "string"
+
+[sheets.cells.J1]
+value = "Defects noted"
+type = "string"
+
+[sheets.cells.J2]
+value = "None"
+type = "string"
+
+[sheets.cells.J3]
+value = "Slight smoke on finish"
+type = "string"
+
+[sheets.cells.J4]
+value = "Underdeveloped"
+type = "string"
+
+[sheets.cells.J5]
+value = "None"
+type = "string"
+
+[sheets.cells.K1]
+value = "Action taken"
+type = "string"
+
+[sheets.cells.K2]
+value = "Passed — bagged"
+type = "string"
+
+[sheets.cells.K3]
+value = "Reduce charge temp 5°C next batch"
+type = "string"
+
+[sheets.cells.K4]
+value = "Re-roast sample at +1% dev"
+type = "string"
+
+[sheets.cells.K5]
+value = "Passed"
+type = "string"
+
+[sheets.cells.L1]
+value = "Cupper"
+type = "string"
+
+

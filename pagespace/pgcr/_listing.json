@@ -1,0 +1,186 @@
+{
+  "mode": "ls",
+  "driveName": "PGCR",
+  "driveSlug": "pgcr",
+  "location": "/pgcr",
+  "breadcrumb": [],
+  "pages": [
+    {
+      "id": "oy4rn3v341v2w70xrmedau9e",
+      "title": "General",
+      "type": "CHANNEL",
+      "hasChildren": true,
+      "isTaskLinked": false
+    },
+    {
+      "id": "oeqbxcf8u6x17sshdgrawv3m",
+      "title": "Vision",
+      "type": "DOCUMENT",
+      "hasChildren": false,
+      "isTaskLinked": false
+    },
+    {
+      "id": "qa1gto1bbspxoexwnicthfvw",
+      "title": "Plans",
+      "type": "FOLDER",
+      "hasChildren": true,
+      "isTaskLinked": false
+    },
+    {
+      "id": "h0tl5fgvvklsq3ztruoj3eak",
+      "title": "Launch Roadmap",
+      "type": "TASK_LIST",
+      "hasChildren": true,
+      "isTaskLinked": false
+    },
+    {
+      "id": "s7ile5smf2rnicw2bypn1dgo",
+      "title": "Research permits, labeling, food safety, and insurance requirements",
+      "type": "TASK_LIST",
+      "hasChildren": false,
+      "isTaskLinked": true
+    },
+    {
+      "id": "fjpm57qk80oy46scg2bnudi1",
+      "title": "Complete first-pass costing and retail pricing",
+      "type": "TASK_LIST",
+      "hasChildren": false,
+      "isTaskLinked": true
+    },
+    {
+      "id": "kbzeuel7vxqlgwbhpooqfdc5",
+      "title": "Confirm roasting workspace, equipment, and capacity",
+      "type": "TASK_LIST",
+      "hasChildren": false,
+      "isTaskLinked": true
+    },
+    {
+      "id": "xbxryozh2hu5pzrakf8xujql",
+      "title": "Define initial product lineup and bag sizes",
+      "type": "TASK_LIST",
+      "hasChildren": false,
+      "isTaskLinked": true
+    },
+    {
+      "id": "wd7e33t47n6wzytripto6nuq",
+      "title": "Run a small validation roast and collect customer feedback",
+      "type": "TASK_LIST",
+      "hasChildren": false,
+      "isTaskLinked": true
+    },
+    {
+      "id": "pd74nu31lfaxd1vegwqi8ooh",
+      "title": "Business Strategy",
+      "type": "FOLDER",
+      "hasChildren": true,
+      "isTaskLinked": false
+    },
+    {
+      "id": "bxu6hj4wdihkbt3rs6xczlj1",
+      "title": "Business Plan",
+      "type": "DOCUMENT",
+      "hasChildren": false,
+      "isTaskLinked": false
+    },
+    {
+      "id": "m5pcn28ny1kkylqiir54eud1",
+      "title": "Operations & Roasting",
+      "type": "FOLDER",
+      "hasChildren": true,
+      "isTaskLinked": false
+    },
+    {
+      "id": "u933k4jxwqb0v8xksj1nzuqw",
+      "title": "Product Catalog",
+      "type": "SHEET",
+      "hasChildren": false,
+      "isTaskLinked": false
+    },
+    {
+      "id": "vkm6wty5r0bsf1otiss4s740",
+      "title": "Roasting & Production SOPs",
+      "type": "DOCUMENT",
+      "hasChildren": false,
+      "isTaskLinked": false
+    },
+    {
+      "id": "qh174uppvusesq6p0e55p44w",
+      "title": "Sales & Marketing",
+      "type": "FOLDER",
+      "hasChildren": true,
+      "isTaskLinked": false
+    },
+    {
+      "id": "jz2jfxdrd7u6pigitzy4bmqt",
+      "title": "Wholesale & Customer Pipeline",
+      "type": "SHEET",
+      "hasChildren": false,
+      "isTaskLinked": false
+    },
+    {
+      "id": "evs7arwqcnqubfw0yy04uie3",
+      "title": "Brand & Content",
+      "type": "FOLDER",
+      "hasChildren": true,
+      "isTaskLinked": false
+    },
+    {
+      "id": "lmo6phg97pn95hp9tq9bwfkk",
+      "title": "Brand Voice & Messaging",
+      "type": "DOCUMENT",
+      "hasChildren": false,
+      "isTaskLinked": false
+    },
+    {
+      "id": "trqtuhq90b3zxgm8jeqzj4px",
+      "title": "Content Calendar",
+      "type": "TASK_LIST",
+      "hasChildren": true,
+      "isTaskLinked": false
+    },
+    {
+      "id": "t016aw8q1lbdzsbo0gvosa6p",
+      "title": "Document first customer story or testimonial",
+      "type": "TASK_LIST",
+      "hasChildren": false,
+      "isTaskLinked": true
+    },
+    {
+      "id": "qij7wudfuraqtw6n0vtmxfj6",
+      "title": "Create launch announcement",
+      "type": "TASK_LIST",
+      "hasChildren": false,
+      "isTaskLinked": true
+    },
+    {
+      "id": "kojlwug783sid6yep7wui4gb",
+      "title": "Publish product education post",
+      "type": "TASK_LIST",
+      "hasChildren": false,
+      "isTaskLinked": true
+    },
+    {
+      "id": "ach1dhi6sfmbtt329kbhmjdc",
+      "title": "Finance & Inventory",
+      "type": "FOLDER",
+      "hasChildren": true,
+      "isTaskLinked": false
+    },
+    {
+      "id": "x2v7evhsr7gds7vq8uyb3m7n",
+      "title": "Costing & Pricing",
+      "type": "SHEET",
+      "hasChildren": false,
+      "isTaskLinked": false
+    },
+    {
+      "id": "tqcojo82bmzcavpi1k8eahpc",
+      "title": "Inventory Tracker",
+      "type": "SHEET",
+      "hasChildren": false,
+      "isTaskLinked": false
+    }
+  ],
+  "count": 25,
+  "totalInDrive": 25
+}

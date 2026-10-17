@@ -1,0 +1,445 @@
+{
+  "mode": "ls",
+  "driveName": "Coffee Co.",
+  "driveSlug": "coffee-co",
+  "location": "/coffee-co",
+  "breadcrumb": [],
+  "pages": [
+    {
+      "id": "xihq4mqth5achohchoqcvvwh",
+      "title": "Coffee Bot",
+      "type": "AI_CHAT",
+      "hasChildren": false,
+      "isTaskLinked": false
+    },
+    {
+      "id": "fj1ot3wepzrtn74znep3gm3f",
+      "title": "My Website",
+      "type": "CANVAS",
+      "hasChildren": false,
+      "isTaskLinked": false
+    },
+    {
+      "id": "ajye9fz7nv7agbtbbrq81y5k",
+      "title": "Plans",
+      "type": "FOLDER",
+      "hasChildren": true,
+      "isTaskLinked": false
+    },
+    {
+      "id": "otgurd5wsp7pkscbu0ah1jbk",
+      "title": "Coffee Co. Drive Build-Out Plan",
+      "type": "DOCUMENT",
+      "hasChildren": false,
+      "isTaskLinked": false
+    },
+    {
+      "id": "q4okzih2tgy8c7fdvwxrqga6",
+      "title": "Quality Control",
+      "type": "FOLDER",
+      "hasChildren": true,
+      "isTaskLinked": false
+    },
+    {
+      "id": "b9ieapp9gugzgrsjofxmk6h6",
+      "title": "Cupping & QC Log",
+      "type": "SHEET",
+      "hasChildren": false,
+      "isTaskLinked": false
+    },
+    {
+      "id": "y5bpje2mzfuwjqdpzpc6vrit",
+      "title": "Brew & Extraction Log",
+      "type": "SHEET",
+      "hasChildren": false,
+      "isTaskLinked": false
+    },
+    {
+      "id": "fmioikbpweldpifd853qh0o5",
+      "title": "Start Here",
+      "type": "DOCUMENT",
+      "hasChildren": false,
+      "isTaskLinked": false
+    },
+    {
+      "id": "kt0s4jnw4krr93dk91qe5dn1",
+      "title": "Sourcing & Inventory",
+      "type": "FOLDER",
+      "hasChildren": true,
+      "isTaskLinked": false
+    },
+    {
+      "id": "xn4o487i1r9q8ohqq64ki8sp",
+      "title": "Green Bean Inventory",
+      "type": "SHEET",
+      "hasChildren": false,
+      "isTaskLinked": false
+    },
+    {
+      "id": "irm6ds45av2dbc451z5un38c",
+      "title": "Supplier Directory",
+      "type": "DOCUMENT",
+      "hasChildren": false,
+      "isTaskLinked": false
+    },
+    {
+      "id": "iys6p29e03hh994ii8tts2ff",
+      "title": "Packaging & Supplies",
+      "type": "SHEET",
+      "hasChildren": false,
+      "isTaskLinked": false
+    },
+    {
+      "id": "p4v9b1d6f24q673nazlf4axj",
+      "title": "Operations",
+      "type": "FOLDER",
+      "hasChildren": true,
+      "isTaskLinked": false
+    },
+    {
+      "id": "umvf486orvmzopdgsnadbq74",
+      "title": "Roasting Log",
+      "type": "SHEET",
+      "hasChildren": false,
+      "isTaskLinked": false
+    },
+    {
+      "id": "hd5rt711d0kf2d554zdrfl0n",
+      "title": "Roasting SOP",
+      "type": "DOCUMENT",
+      "hasChildren": false,
+      "isTaskLinked": false
+    },
+    {
+      "id": "z4gqxx4tq9f40iuz04n6ag25",
+      "title": "Equipment Maintenance",
+      "type": "TASK_LIST",
+      "hasChildren": true,
+      "isTaskLinked": false
+    },
+    {
+      "id": "j006a1kaiqmxgp82wvuwb7dv",
+      "title": "Weekly checks",
+      "type": "TASK_LIST",
+      "hasChildren": true,
+      "isTaskLinked": true
+    },
+    {
+      "id": "ot99sha1ep15dorypk8h7oi8",
+      "title": "Empty & brush chaff tray (every roast day)",
+      "type": "TASK_LIST",
+      "hasChildren": false,
+      "isTaskLinked": true
+    },
+    {
+      "id": "tjmyzhokq1b26t1rba430pfg",
+      "title": "Check machine for gas smells / leaks",
+      "type": "TASK_LIST",
+      "hasChildren": false,
+      "isTaskLinked": true
+    },
+    {
+      "id": "et8uo70h7out9ff6kcnykriv",
+      "title": "Clean cooling tray fan and screen",
+      "type": "TASK_LIST",
+      "hasChildren": false,
+      "isTaskLinked": true
+    },
+    {
+      "id": "wsticrxp1e94xcuie6c4szf3",
+      "title": "Quarterly checks",
+      "type": "TASK_LIST",
+      "hasChildren": true,
+      "isTaskLinked": true
+    },
+    {
+      "id": "vk7tli2pymli9n4waqlzz7c5",
+      "title": "Chimney / afterburner inspection",
+      "type": "TASK_LIST",
+      "hasChildren": false,
+      "isTaskLinked": true
+    },
+    {
+      "id": "qzb5gf39ha0afbzhlojmytfv",
+      "title": "Calibrate scale and moisture meter",
+      "type": "TASK_LIST",
+      "hasChildren": false,
+      "isTaskLinked": true
+    },
+    {
+      "id": "idinwgosuqfhpnqpyr7yvbds",
+      "title": "Lubricate bearings per manual",
+      "type": "TASK_LIST",
+      "hasChildren": false,
+      "isTaskLinked": true
+    },
+    {
+      "id": "kr318s2mklb1ld9mwkw2sldp",
+      "title": "Annual service",
+      "type": "TASK_LIST",
+      "hasChildren": true,
+      "isTaskLinked": true
+    },
+    {
+      "id": "ex9uoyhx0yte7tyjpka8lhj2",
+      "title": "Fire extinguisher inspection & tag renewal",
+      "type": "TASK_LIST",
+      "hasChildren": false,
+      "isTaskLinked": true
+    },
+    {
+      "id": "lqb2yszq9szdklziquyzltit",
+      "title": "Full service visit — book for December",
+      "type": "TASK_LIST",
+      "hasChildren": false,
+      "isTaskLinked": true
+    },
+    {
+      "id": "eo4slrrn9o118j8s4cmtwnii",
+      "title": "Monthly checks",
+      "type": "TASK_LIST",
+      "hasChildren": true,
+      "isTaskLinked": true
+    },
+    {
+      "id": "z3qa0ba37o7ednh3k898u81z",
+      "title": "Deep-clean grinder burrs",
+      "type": "TASK_LIST",
+      "hasChildren": false,
+      "isTaskLinked": true
+    },
+    {
+      "id": "zq3ph1x0oirbkviihq37pt84",
+      "title": "Vacuum drum interior and cyclone",
+      "type": "TASK_LIST",
+      "hasChildren": false,
+      "isTaskLinked": true
+    },
+    {
+      "id": "vk4e1lvmv1t2osx0q54wfny4",
+      "title": "Inspect door gasket and drum seals",
+      "type": "TASK_LIST",
+      "hasChildren": false,
+      "isTaskLinked": true
+    },
+    {
+      "id": "hx2hf5bjyuennfqkq5j4721v",
+      "title": "Check thermocouple against reference thermometer",
+      "type": "TASK_LIST",
+      "hasChildren": false,
+      "isTaskLinked": true
+    },
+    {
+      "id": "i3ik8o2l886is0hb2msfsl1r",
+      "title": "Team",
+      "type": "FOLDER",
+      "hasChildren": true,
+      "isTaskLinked": false
+    },
+    {
+      "id": "ozty7i5c3ywjiowk10p24rrh",
+      "title": "Team Handbook",
+      "type": "DOCUMENT",
+      "hasChildren": false,
+      "isTaskLinked": false
+    },
+    {
+      "id": "zj6ac0574oxz4o0e9lzvel5y",
+      "title": "Training Checklist",
+      "type": "TASK_LIST",
+      "hasChildren": true,
+      "isTaskLinked": false
+    },
+    {
+      "id": "vr7x2sx5vop2zi8a8p6nrmln",
+      "title": "Week 3 — coffee knowledge",
+      "type": "TASK_LIST",
+      "hasChildren": true,
+      "isTaskLinked": true
+    },
+    {
+      "id": "nj4gun6o2twxbjng35546ryh",
+      "title": "Dial in espresso and filter; log in Brew & Extraction Log",
+      "type": "TASK_LIST",
+      "hasChildren": false,
+      "isTaskLinked": true
+    },
+    {
+      "id": "wu9ojpze2rx3eqksns23u9mv",
+      "title": "Cup with the team; enter scores in Cupping & QC Log",
+      "type": "TASK_LIST",
+      "hasChildren": false,
+      "isTaskLinked": true
+    },
+    {
+      "id": "pj1ldkhv2392o0aeiav4jny5",
+      "title": "Learn the product catalog (every SKU, blend, price)",
+      "type": "TASK_LIST",
+      "hasChildren": false,
+      "isTaskLinked": true
+    },
+    {
+      "id": "kfrxqlkma6fdnpkkfn6qdha0",
+      "title": "Week 2 — roasting floor",
+      "type": "TASK_LIST",
+      "hasChildren": true,
+      "isTaskLinked": true
+    },
+    {
+      "id": "k3hatdnzqluv6cq9flvg9o7w",
+      "title": "Perform daily startup under supervision",
+      "type": "TASK_LIST",
+      "hasChildren": false,
+      "isTaskLinked": true
+    },
+    {
+      "id": "p7lf2d2tmmx1jajrswwfvlup",
+      "title": "Clean chaff tray, cooling tray; shut down machine",
+      "type": "TASK_LIST",
+      "hasChildren": false,
+      "isTaskLinked": true
+    },
+    {
+      "id": "nt6beegra2679xsnlx9fl040",
+      "title": "Charge and roast one batch under supervision",
+      "type": "TASK_LIST",
+      "hasChildren": false,
+      "isTaskLinked": true
+    },
+    {
+      "id": "g2apu2btrhl797v18cfgjeve",
+      "title": "Log the batch in the Roasting Log (all fields)",
+      "type": "TASK_LIST",
+      "hasChildren": false,
+      "isTaskLinked": true
+    },
+    {
+      "id": "drodc8zfgltvhtuv1j4kxpa6",
+      "title": "Week 1 — safety & basics",
+      "type": "TASK_LIST",
+      "hasChildren": true,
+      "isTaskLinked": true
+    },
+    {
+      "id": "i6ibcmmbiv8f6ffjkqm717xq",
+      "title": "Roastery safety walkthrough (gas, fire, ventilation, PPE)",
+      "type": "TASK_LIST",
+      "hasChildren": false,
+      "isTaskLinked": true
+    },
+    {
+      "id": "ht3l5v6c68m0qlv1680ogpsc",
+      "title": "Shadow one full roast day",
+      "type": "TASK_LIST",
+      "hasChildren": false,
+      "isTaskLinked": true
+    },
+    {
+      "id": "lag0ju9161np7onpsftaoi1i",
+      "title": "Read Roasting SOP sections 1–3",
+      "type": "TASK_LIST",
+      "hasChildren": false,
+      "isTaskLinked": true
+    },
+    {
+      "id": "gq8mq6qp5b6lltaqc5o3f8mz",
+      "title": "Read the Team Handbook top to bottom",
+      "type": "TASK_LIST",
+      "hasChildren": false,
+      "isTaskLinked": true
+    },
+    {
+      "id": "fdmfilweujfehpp2zwb2jxan",
+      "title": "Week 4 — customer-facing",
+      "type": "TASK_LIST",
+      "hasChildren": true,
+      "isTaskLinked": true
+    },
+    {
+      "id": "dvtkebrwmzlfm6b66x219fr9",
+      "title": "Join one wholesale delivery route",
+      "type": "TASK_LIST",
+      "hasChildren": false,
+      "isTaskLinked": true
+    },
+    {
+      "id": "px40evnoq9e91m9kubyv6pcg",
+      "title": "Final sign-off by head roaster",
+      "type": "TASK_LIST",
+      "hasChildren": false,
+      "isTaskLinked": true
+    },
+    {
+      "id": "i7xkxt3mbgtwf4ot2ocw7a84",
+      "title": "Work one farmers market shift (in season)",
+      "type": "TASK_LIST",
+      "hasChildren": false,
+      "isTaskLinked": true
+    },
+    {
+      "id": "gk7fidzamr1158xhr8c202w8",
+      "title": "Pack and label an order against its invoice",
+      "type": "TASK_LIST",
+      "hasChildren": false,
+      "isTaskLinked": true
+    },
+    {
+      "id": "dmx53w1wmb1isrv60ydmnpaq",
+      "title": "Sales & Marketing",
+      "type": "FOLDER",
+      "hasChildren": true,
+      "isTaskLinked": false
+    },
+    {
+      "id": "at64v8fboqe3d7000k7nn1ki",
+      "title": "Customers & Accounts",
+      "type": "SHEET",
+      "hasChildren": false,
+      "isTaskLinked": false
+    },
+    {
+      "id": "fy8puvzg91iq9s6rgr19uorc",
+      "title": "Product Catalog & Pricing",
+      "type": "SHEET",
+      "hasChildren": false,
+      "isTaskLinked": false
+    },
+    {
+      "id": "xkbbr0qvn3c08con682dyjqs",
+      "title": "Marketing Calendar",
+      "type": "DOCUMENT",
+      "hasChildren": false,
+      "isTaskLinked": false
+    },
+    {
+      "id": "b3gct8jezlzhtc6s6neqaslo",
+      "title": "Finance",
+      "type": "FOLDER",
+      "hasChildren": true,
+      "isTaskLinked": false
+    },
+    {
+      "id": "lvatvwz5pfmqxi5816ebjgyh",
+      "title": "Monthly Budget",
+      "type": "SHEET",
+      "hasChildren": false,
+      "isTaskLinked": false
+    },
+    {
+      "id": "yqlvdi5402amst8415mg3kti",
+      "title": "COGS & Pricing Calculator",
+      "type": "SHEET",
+      "hasChildren": false,
+      "isTaskLinked": false
+    },
+    {
+      "id": "xgbipeatkenuer8qmbozcz4c",
+      "title": "Team Chat",
+      "type": "CHANNEL",
+      "hasChildren": false,
+      "isTaskLinked": false
+    }
+  ],
+  "count": 62,
+  "totalInDrive": 62
+}

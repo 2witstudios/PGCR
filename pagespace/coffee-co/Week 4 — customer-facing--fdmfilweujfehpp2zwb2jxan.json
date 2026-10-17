@@ -1,0 +1,140 @@
+{
+  "page": {
+    "id": "fdmfilweujfehpp2zwb2jxan",
+    "title": "Week 4 — customer-facing",
+    "type": "TASK_LIST",
+    "hasChildren": true,
+    "isTaskLinked": true
+  },
+  "pageId": "fdmfilweujfehpp2zwb2jxan",
+  "pageTitle": "Week 4 — customer-facing",
+  "pageType": "TASK_LIST",
+  "taskListId": "ou6baxq202f8s0bkhvy18bui",
+  "parentTaskList": {
+    "pageId": "zj6ac0574oxz4o0e9lzvel5y",
+    "title": "Training Checklist",
+    "taskListId": "q3ccwkwgb8aq06ynjsq2t8l0"
+  },
+  "totalLines": 1,
+  "numberedLines": [
+    "   1 | "
+  ],
+  "content": "",
+  "tasks": [
+    {
+      "id": "co2lcqg0o2cwd3vfcn8ejn47",
+      "title": "Pack and label an order against its invoice",
+      "status": "pending",
+      "priority": "medium",
+      "assigneeId": null,
+      "assigneeAgentId": null,
+      "dueDate": null,
+      "position": 1,
+      "completedAt": null,
+      "pageId": "gk7fidzamr1158xhr8c202w8",
+      "assignee": null,
+      "assigneeAgent": null,
+      "assignees": [],
+      "hasContent": false,
+      "subTaskCount": 0,
+      "subTaskCompletedCount": 0
+    },
+    {
+      "id": "dpepwc39rpwj7wilyu9cb1ad",
+      "title": "Work one farmers market shift (in season)",
+      "status": "pending",
+      "priority": "medium",
+      "assigneeId": null,
+      "assigneeAgentId": null,
+      "dueDate": null,
+      "position": 1,
+      "completedAt": null,
+      "pageId": "i7xkxt3mbgtwf4ot2ocw7a84",
+      "assignee": null,
+      "assigneeAgent": null,
+      "assignees": [],
+      "hasContent": false,
+      "subTaskCount": 0,
+      "subTaskCompletedCount": 0
+    },
+    {
+      "id": "l53wyxmdtu9n95bua41r6cme",
+      "title": "Final sign-off by head roaster",
+      "status": "pending",
+      "priority": "medium",
+      "assigneeId": null,
+      "assigneeAgentId": null,
+      "dueDate": null,
+      "position": 1,
+      "completedAt": null,
+      "pageId": "px40evnoq9e91m9kubyv6pcg",
+      "assignee": null,
+      "assigneeAgent": null,
+      "assignees": [],
+      "hasContent": false,
+      "subTaskCount": 0,
+      "subTaskCompletedCount": 0
+    },
+    {
+      "id": "swq6e0iulc8ub3soybw05p61",
+      "title": "Join one wholesale delivery route",
+      "status": "pending",
+      "priority": "medium",
+      "assigneeId": null,
+      "assigneeAgentId": null,
+      "dueDate": null,
+      "position": 1,
+      "completedAt": null,
+      "pageId": "dvtkebrwmzlfm6b66x219fr9",
+      "assignee": null,
+      "assigneeAgent": null,
+      "assignees": [],
+      "hasContent": false,
+      "subTaskCount": 0,
+      "subTaskCompletedCount": 0
+    }
+  ],
+  "availableStatuses": [
+    {
+      "slug": "pending",
+      "label": "To Do",
+      "group": "todo",
+      "position": 0,
+      "color": "bg-slate-100 text-slate-700 dark:bg-slate-800 dark:text-slate-300"
+    },
+    {
+      "slug": "in_progress",
+      "label": "In Progress",
+      "group": "in_progress",
+      "position": 1,
+      "color": "bg-amber-100 text-amber-700 dark:bg-amber-900 dark:text-amber-300"
+    },
+    {
+      "slug": "blocked",
+      "label": "Blocked",
+      "group": "in_progress",
+      "position": 2,
+      "color": "bg-red-100 text-red-700 dark:bg-red-900 dark:text-red-300"
+    },
+    {
+      "slug": "completed",
+      "label": "Done",
+      "group": "done",
+      "position": 3,
+      "color": "bg-green-100 text-green-700 dark:bg-green-900 dark:text-green-300"
+    }
+  ],
+  "progress": {
+    "total": 4,
+    "percentage": 0,
+    "byGroup": {
+      "todo": 4,
+      "in_progress": 0,
+      "done": 0
+    },
+    "bySlug": {
+      "pending": 4
+    }
+  }
+}
+

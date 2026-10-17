@@ -1,0 +1,39 @@
+{
+  "page": {
+    "id": "otgurd5wsp7pkscbu0ah1jbk",
+    "title": "Coffee Co. Drive Build-Out Plan",
+    "type": "DOCUMENT",
+    "hasChildren": false,
+    "isTaskLinked": false
+  },
+  "pageId": "otgurd5wsp7pkscbu0ah1jbk",
+  "pageTitle": "Coffee Co. Drive Build-Out Plan",
+  "totalLines": 23,
+  "numberedLines": [
+    "   1 | # Coffee Co. — Drive Build-Out Plan",
+    "   2 | ",
+    "   3 | ## Goal",
+    "   4 | Stand up the day-to-day workspace for a small, actively-roasting coffee company: one place for roast logs, green inventory, QC, sales, and money. Structure **with starter content** — every sheet gets sample rows showing intended use, every doc gets section skeletons ready to fill. Nothing blank.",
+    "   5 | ",
+    "   6 | ## Approach",
+    "   7 | Six top-level folders, each owning a slice of the business, plus a \"Start Here\" readme at the root. Sheets carry operational data (logs, inventory, budget) with a few obviously-fictional sample rows; documents carry SOPs and reference info as skeletons; task lists handle anything recurring (equipment care, training).",
+    "   8 | ",
+    "   9 | Rejected alternative: one flat page list — fine at 5 pages, unworkable at 25. Folders keep it navigable as the business grows.",
+    "  10 | ",
+    "  11 | ## Steps",
+    "  12 | 1. **Root**: \"Start Here\" document — what lives where, naming and logging conventions.",
+    "  13 | 2. **Operations** folder: Roasting Log (SHEET: date, bean, green-in/roast-out kg, drop temp, dev time, roast level, notes) · Roasting SOP (DOCUMENT skeleton) · Equipment Maintenance (TASK_LIST: burr clean, drum clean, chimney/afterburner check).",
+    "  14 | 3. **Sourcing & Inventory** folder: Green Bean Inventory (SHEET: origin, producer, lot, process, kg on hand, cost/kg, arrival date) · Supplier Directory (DOCUMENT) · Packaging & Supplies (SHEET).",
+    "  15 | 4. **Quality Control** folder: Cupping & QC Log (SHEET) · Brew & Extraction Log (SHEET).",
+    "  16 | 5. **Sales & Marketing** folder: Customers & Accounts (SHEET — works for wholesale cafés and direct) · Product Catalog & Pricing (SHEET) · Marketing Calendar (DOCUMENT).",
+    "  17 | 6. **Finance** folder: Monthly Budget (SHEET with formulas) · COGS & Pricing Calculator (SHEET with formulas).",
+    "  18 | 7. **Team** folder: Team Handbook (DOCUMENT skeleton) · Training Checklist (TASK_LIST).",
+    "  19 | ",
+    "  20 | ~17 pages total.",
+    "  21 | ",
+    "  22 | ## Open questions",
+    "  23 | - Any existing data to import (green inventory, customer list) instead of samples? Say the word and it goes straight in."
+  ],
+  "content": "# Coffee Co. — Drive Build-Out Plan\n\n## Goal\nStand up the day-to-day workspace for a small, actively-roasting coffee company: one place for roast logs, green inventory, QC, sales, and money. Structure **with starter content** — every sheet gets sample rows showing intended use, every doc gets section skeletons ready to fill. Nothing blank.\n\n## Approach\nSix top-level folders, each owning a slice of the business, plus a \"Start Here\" readme at the root. Sheets carry operational data (logs, inventory, budget) with a few obviously-fictional sample rows; documents carry SOPs and reference info as skeletons; task lists handle anything recurring (equipment care, training).\n\nRejected alternative: one flat page list — fine at 5 pages, unworkable at 25. Folders keep it navigable as the business grows.\n\n## Steps\n1. **Root**: \"Start Here\" document — what lives where, naming and logging conventions.\n2. **Operations** folder: Roasting Log (SHEET: date, bean, green-in/roast-out kg, drop temp, dev time, roast level, notes) · Roasting SOP (DOCUMENT skeleton) · Equipment Maintenance (TASK_LIST: burr clean, drum clean, chimney/afterburner check).\n3. **Sourcing & Inventory** folder: Green Bean Inventory (SHEET: origin, producer, lot, process, kg on hand, cost/kg, arrival date) · Supplier Directory (DOCUMENT) · Packaging & Supplies (SHEET).\n4. **Quality Control** folder: Cupping & QC Log (SHEET) · Brew & Extraction Log (SHEET).\n5. **Sales & Marketing** folder: Customers & Accounts (SHEET — works for wholesale cafés and direct) · Product Catalog & Pricing (SHEET) · Marketing Calendar (DOCUMENT).\n6. **Finance** folder: Monthly Budget (SHEET with formulas) · COGS & Pricing Calculator (SHEET with formulas).\n7. **Team** folder: Team Handbook (DOCUMENT skeleton) · Training Checklist (TASK_LIST).\n\n~17 pages total.\n\n## Open questions\n- Any existing data to import (green inventory, customer list) instead of samples? Say the word and it goes straight in."
+}
+

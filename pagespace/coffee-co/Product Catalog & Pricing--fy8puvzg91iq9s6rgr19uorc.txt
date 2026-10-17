@@ -1,0 +1,370 @@
+#%PAGESPACE_SHEETDOC v1
+page_id = "fy8puvzg91iq9s6rgr19uorc"
+
+[[sheets]]
+name = "Sheet1"
+order = 0
+
+[sheets.meta]
+row_count = 20
+column_count = 10
+
+[sheets.cells.A1]
+value = "SKU"
+type = "string"
+
+[sheets.cells.A10]
+value = "Wholesale"
+type = "string"
+
+[sheets.cells.A11]
+value = "Retail"
+type = "string"
+
+[sheets.cells.A12]
+value = "Rule"
+type = "string"
+
+[sheets.cells.A2]
+value = "HB-5LB"
+type = "string"
+
+[sheets.cells.A3]
+value = "HB-12OZ"
+type = "string"
+
+[sheets.cells.A4]
+value = "ET-GUJ-12OZ"
+type = "string"
+
+[sheets.cells.A5]
+value = "DEC-12OZ"
+type = "string"
+
+[sheets.cells.A6]
+value = "SAM-3PK"
+type = "string"
+
+[sheets.cells.A7]
+value = "TOTE"
+type = "string"
+
+[sheets.cells.A9]
+value = "Price floors"
+type = "string"
+
+[sheets.cells.B1]
+value = "Product"
+type = "string"
+
+[sheets.cells.B10]
+value = 0.55
+type = "number"
+
+[sheets.cells.B11]
+value = 0.6
+type = "number"
+
+[sheets.cells.B12]
+value = "Margin below floor → reprice or reformulate; recalc in Finance → COGS & Pricing Calculator"
+type = "string"
+
+[sheets.cells.B2]
+value = "House Blend"
+type = "string"
+
+[sheets.cells.B3]
+value = "House Blend"
+type = "string"
+
+[sheets.cells.B4]
+value = "Ethiopia Guji Natural"
+type = "string"
+
+[sheets.cells.B5]
+value = "Decaf Colombia (Sugarcane)"
+type = "string"
+
+[sheets.cells.B6]
+value = "Single-origin sampler (3×12 oz)"
+type = "string"
+
+[sheets.cells.B7]
+value = "Coffee sack tote"
+type = "string"
+
+[sheets.cells.B9]
+value = "minimum margin"
+type = "string"
+
+[sheets.cells.C1]
+value = "Format"
+type = "string"
+
+[sheets.cells.C2]
+value = "5 lb bag"
+type = "string"
+
+[sheets.cells.C3]
+value = "12 oz bag"
+type = "string"
+
+[sheets.cells.C4]
+value = "12 oz bag"
+type = "string"
+
+[sheets.cells.C5]
+value = "12 oz bag"
+type = "string"
+
+[sheets.cells.C6]
+value = "3-pack"
+type = "string"
+
+[sheets.cells.C7]
+value = "pcs"
+type = "string"
+
+[sheets.cells.D1]
+value = "COGS per unit (USD)"
+type = "string"
+
+[sheets.cells.D2]
+value = 15.9
+type = "number"
+
+[sheets.cells.D3]
+value = 4.31
+type = "number"
+
+[sheets.cells.D4]
+value = 6.2
+type = "number"
+
+[sheets.cells.D5]
+value = 5.6
+type = "number"
+
+[sheets.cells.D6]
+value = 19.4
+type = "number"
+
+[sheets.cells.D7]
+value = 4.5
+type = "number"
+
+[sheets.cells.E1]
+value = "Wholesale (USD)"
+type = "string"
+
+[sheets.cells.E2]
+value = 42
+type = "number"
+
+[sheets.cells.E3]
+value = 14
+type = "number"
+
+[sheets.cells.E4]
+value = 19
+type = "number"
+
+[sheets.cells.E5]
+value = 16.5
+type = "number"
+
+[sheets.cells.E6]
+value = 48
+type = "number"
+
+[sheets.cells.E7]
+value = 12
+type = "number"
+
+[sheets.cells.F1]
+value = "Retail (USD)"
+type = "string"
+
+[sheets.cells.F2]
+value = 58
+type = "number"
+
+[sheets.cells.F3]
+value = 19.5
+type = "number"
+
+[sheets.cells.F4]
+value = 26
+type = "number"
+
+[sheets.cells.F5]
+value = 22.5
+type = "number"
+
+[sheets.cells.F6]
+value = 66
+type = "number"
+
+[sheets.cells.F7]
+value = 18
+type = "number"
+
+[sheets.cells.G1]
+value = "Wholesale margin"
+type = "string"
+
+[sheets.cells.G2]
+formula = "=ROUND((E2-D2)/E2,3)"
+value = 0.621
+type = "number"
+
+[sheets.cells.G3]
+formula = "=ROUND((E3-D3)/E3,3)"
+value = 0.692
+type = "number"
+
+[sheets.cells.G4]
+formula = "=ROUND((E4-D4)/E4,3)"
+value = 0.674
+type = "number"
+
+[sheets.cells.G5]
+formula = "=ROUND((E5-D5)/E5,3)"
+value = 0.661
+type = "number"
+
+[sheets.cells.G6]
+formula = "=ROUND((E6-D6)/E6,3)"
+value = 0.596
+type = "number"
+
+[sheets.cells.G7]
+formula = "=ROUND((E7-D7)/E7,3)"
+value = 0.625
+type = "number"
+
+[sheets.cells.H1]
+value = "Active"
+type = "string"
+
+[sheets.cells.H2]
+value = "Yes"
+type = "string"
+
+[sheets.cells.H3]
+value = "Yes"
+type = "string"
+
+[sheets.cells.H4]
+value = "Yes"
+type = "string"
+
+[sheets.cells.H5]
+value = "Yes"
+type = "string"
+
+[sheets.cells.H6]
+value = "Yes"
+type = "string"
+
+[sheets.cells.H7]
+value = "Yes"
+type = "string"
+
+[sheets.cells.I1]
+value = "Notes"
+type = "string"
+
+[sheets.cells.I2]
+value = "Core wholesale SKU"
+type = "string"
+
+[sheets.cells.I3]
+value = "Retail + grocery"
+type = "string"
+
+[sheets.cells.I4]
+value = "Single origin"
+type = "string"
+
+[sheets.cells.I6]
+value = "Gift season"
+type = "string"
+
+[sheets.cells.I7]
+value = "Merch"
+type = "string"
+
+[sheets.dependencies.D2]
+depends_on = []
+dependents = ["G2"]
+
+[sheets.dependencies.D3]
+depends_on = []
+dependents = ["G3"]
+
+[sheets.dependencies.D4]
+depends_on = []
+dependents = ["G4"]
+
+[sheets.dependencies.D5]
+depends_on = []
+dependents = ["G5"]
+
+[sheets.dependencies.D6]
+depends_on = []
+dependents = ["G6"]
+
+[sheets.dependencies.D7]
+depends_on = []
+dependents = ["G7"]
+
+[sheets.dependencies.E2]
+depends_on = []
+dependents = ["G2"]
+
+[sheets.dependencies.E3]
+depends_on = []
+dependents = ["G3"]
+
+[sheets.dependencies.E4]
+depends_on = []
+dependents = ["G4"]
+
+[sheets.dependencies.E5]
+depends_on = []
+dependents = ["G5"]
+
+[sheets.dependencies.E6]
+depends_on = []
+dependents = ["G6"]
+
+[sheets.dependencies.E7]
+depends_on = []
+dependents = ["G7"]
+
+[sheets.dependencies.G2]
+depends_on = ["D2", "E2"]
+dependents = []
+
+[sheets.dependencies.G3]
+depends_on = ["D3", "E3"]
+dependents = []
+
+[sheets.dependencies.G4]
+depends_on = ["D4", "E4"]
+dependents = []
+
+[sheets.dependencies.G5]
+depends_on = ["D5", "E5"]
+dependents = []
+
+[sheets.dependencies.G6]
+depends_on = ["D6", "E6"]
+dependents = []
+
+[sheets.dependencies.G7]
+depends_on = ["D7", "E7"]
+dependents = []
+
+

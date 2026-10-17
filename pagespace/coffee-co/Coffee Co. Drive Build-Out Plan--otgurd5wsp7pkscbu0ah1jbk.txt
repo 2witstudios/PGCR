@@ -1,0 +1,24 @@
+# Coffee Co. — Drive Build-Out Plan
+
+## Goal
+Stand up the day-to-day workspace for a small, actively-roasting coffee company: one place for roast logs, green inventory, QC, sales, and money. Structure **with starter content** — every sheet gets sample rows showing intended use, every doc gets section skeletons ready to fill. Nothing blank.
+
+## Approach
+Six top-level folders, each owning a slice of the business, plus a "Start Here" readme at the root. Sheets carry operational data (logs, inventory, budget) with a few obviously-fictional sample rows; documents carry SOPs and reference info as skeletons; task lists handle anything recurring (equipment care, training).
+
+Rejected alternative: one flat page list — fine at 5 pages, unworkable at 25. Folders keep it navigable as the business grows.
+
+## Steps
+1. **Root**: "Start Here" document — what lives where, naming and logging conventions.
+2. **Operations** folder: Roasting Log (SHEET: date, bean, green-in/roast-out kg, drop temp, dev time, roast level, notes) · Roasting SOP (DOCUMENT skeleton) · Equipment Maintenance (TASK_LIST: burr clean, drum clean, chimney/afterburner check).
+3. **Sourcing & Inventory** folder: Green Bean Inventory (SHEET: origin, producer, lot, process, kg on hand, cost/kg, arrival date) · Supplier Directory (DOCUMENT) · Packaging & Supplies (SHEET).
+4. **Quality Control** folder: Cupping & QC Log (SHEET) · Brew & Extraction Log (SHEET).
+5. **Sales & Marketing** folder: Customers & Accounts (SHEET — works for wholesale cafés and direct) · Product Catalog & Pricing (SHEET) · Marketing Calendar (DOCUMENT).
+6. **Finance** folder: Monthly Budget (SHEET with formulas) · COGS & Pricing Calculator (SHEET with formulas).
+7. **Team** folder: Team Handbook (DOCUMENT skeleton) · Training Checklist (TASK_LIST).
+
+~17 pages total.
+
+## Open questions
+- Any existing data to import (green inventory, customer list) instead of samples? Say the word and it goes straight in.
+

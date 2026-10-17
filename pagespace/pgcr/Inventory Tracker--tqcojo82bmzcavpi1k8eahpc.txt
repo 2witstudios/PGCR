@@ -1,0 +1,69 @@
+#%PAGESPACE_SHEETDOC v1
+page_id = "tqcojo82bmzcavpi1k8eahpc"
+
+[[sheets]]
+name = "Sheet1"
+order = 0
+
+[sheets.meta]
+row_count = 20
+column_count = 10
+
+[sheets.cells.A1]
+value = "Item"
+type = "string"
+
+[sheets.cells.B1]
+value = "Category"
+type = "string"
+
+[sheets.cells.C1]
+value = "Unit"
+type = "string"
+
+[sheets.cells.D1]
+value = "On Hand"
+type = "string"
+
+[sheets.cells.E1]
+value = "Reorder Point"
+type = "string"
+
+[sheets.cells.F1]
+value = "Unit Cost"
+type = "string"
+
+[sheets.cells.G1]
+value = "Inventory Value"
+type = "string"
+
+[sheets.cells.G2]
+formula = "=D2*F2"
+value = 0
+type = "number"
+
+[sheets.cells.H1]
+value = "Supplier"
+type = "string"
+
+[sheets.cells.I1]
+value = "Last Ordered"
+type = "string"
+
+[sheets.cells.J1]
+value = "Notes"
+type = "string"
+
+[sheets.dependencies.D2]
+depends_on = []
+dependents = ["G2"]
+
+[sheets.dependencies.F2]
+depends_on = []
+dependents = ["G2"]
+
+[sheets.dependencies.G2]
+depends_on = ["D2", "F2"]
+dependents = []
+
+

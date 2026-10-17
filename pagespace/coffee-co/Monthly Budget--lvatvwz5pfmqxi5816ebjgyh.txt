@@ -1,0 +1,469 @@
+#%PAGESPACE_SHEETDOC v1
+page_id = "lvatvwz5pfmqxi5816ebjgyh"
+
+[[sheets]]
+name = "Sheet1"
+order = 0
+
+[sheets.meta]
+row_count = 20
+column_count = 10
+
+[sheets.cells.A1]
+value = "Line item"
+type = "string"
+
+[sheets.cells.A10]
+value = "Rent (roastery)"
+type = "string"
+
+[sheets.cells.A11]
+value = "Payroll"
+type = "string"
+
+[sheets.cells.A12]
+value = "Total spend"
+type = "string"
+
+[sheets.cells.A13]
+value = "Revenue (sales)"
+type = "string"
+
+[sheets.cells.A14]
+value = "Net"
+type = "string"
+
+[sheets.cells.A2]
+value = "Green coffee purchases"
+type = "string"
+
+[sheets.cells.A3]
+value = "Packaging & supplies"
+type = "string"
+
+[sheets.cells.A4]
+value = "Roaster gas & utilities"
+type = "string"
+
+[sheets.cells.A5]
+value = "Farmers market fees"
+type = "string"
+
+[sheets.cells.A6]
+value = "Advertising & promo"
+type = "string"
+
+[sheets.cells.A7]
+value = "Web shop fees"
+type = "string"
+
+[sheets.cells.A8]
+value = "Equipment service"
+type = "string"
+
+[sheets.cells.A9]
+value = "Insurance"
+type = "string"
+
+[sheets.cells.B1]
+value = "Category"
+type = "string"
+
+[sheets.cells.B10]
+value = "Operations"
+type = "string"
+
+[sheets.cells.B11]
+value = "Team"
+type = "string"
+
+[sheets.cells.B2]
+value = "COGS"
+type = "string"
+
+[sheets.cells.B3]
+value = "COGS"
+type = "string"
+
+[sheets.cells.B4]
+value = "COGS"
+type = "string"
+
+[sheets.cells.B5]
+value = "Sales"
+type = "string"
+
+[sheets.cells.B6]
+value = "Marketing"
+type = "string"
+
+[sheets.cells.B7]
+value = "Sales"
+type = "string"
+
+[sheets.cells.B8]
+value = "Operations"
+type = "string"
+
+[sheets.cells.B9]
+value = "Operations"
+type = "string"
+
+[sheets.cells.C1]
+value = "Budget (USD)"
+type = "string"
+
+[sheets.cells.C10]
+value = 1400
+type = "number"
+
+[sheets.cells.C11]
+value = 3800
+type = "number"
+
+[sheets.cells.C12]
+formula = "=SUM(C2:C11)"
+value = 10570
+type = "number"
+
+[sheets.cells.C13]
+value = 14000
+type = "number"
+
+[sheets.cells.C14]
+formula = "=C13-C12"
+value = 3430
+type = "number"
+
+[sheets.cells.C2]
+value = 3200
+type = "number"
+
+[sheets.cells.C3]
+value = 600
+type = "number"
+
+[sheets.cells.C4]
+value = 350
+type = "number"
+
+[sheets.cells.C5]
+value = 240
+type = "number"
+
+[sheets.cells.C6]
+value = 400
+type = "number"
+
+[sheets.cells.C7]
+value = 120
+type = "number"
+
+[sheets.cells.C8]
+value = 250
+type = "number"
+
+[sheets.cells.C9]
+value = 210
+type = "number"
+
+[sheets.cells.D1]
+value = "Actual (USD)"
+type = "string"
+
+[sheets.cells.D10]
+value = 1400
+type = "number"
+
+[sheets.cells.D11]
+value = 3800
+type = "number"
+
+[sheets.cells.D12]
+formula = "=SUM(D2:D11)"
+value = 10440
+type = "number"
+
+[sheets.cells.D13]
+value = 14620
+type = "number"
+
+[sheets.cells.D14]
+formula = "=D13-D12"
+value = 4180
+type = "number"
+
+[sheets.cells.D2]
+value = 3450
+type = "number"
+
+[sheets.cells.D3]
+value = 540
+type = "number"
+
+[sheets.cells.D4]
+value = 362
+type = "number"
+
+[sheets.cells.D5]
+value = 240
+type = "number"
+
+[sheets.cells.D6]
+value = 320
+type = "number"
+
+[sheets.cells.D7]
+value = 118
+type = "number"
+
+[sheets.cells.D8]
+value = 0
+type = "number"
+
+[sheets.cells.D9]
+value = 210
+type = "number"
+
+[sheets.cells.E1]
+value = "Variance (USD)"
+type = "string"
+
+[sheets.cells.E10]
+formula = "=D10-C10"
+value = 0
+type = "number"
+
+[sheets.cells.E11]
+formula = "=D11-C11"
+value = 0
+type = "number"
+
+[sheets.cells.E12]
+formula = "=D12-C12"
+value = -130
+type = "number"
+
+[sheets.cells.E13]
+formula = "=D13-C13"
+value = 620
+type = "number"
+
+[sheets.cells.E14]
+formula = "=D14-C14"
+value = 750
+type = "number"
+
+[sheets.cells.E2]
+formula = "=D2-C2"
+value = 250
+type = "number"
+
+[sheets.cells.E3]
+formula = "=D3-C3"
+value = -60
+type = "number"
+
+[sheets.cells.E4]
+formula = "=D4-C4"
+value = 12
+type = "number"
+
+[sheets.cells.E5]
+formula = "=D5-C5"
+value = 0
+type = "number"
+
+[sheets.cells.E6]
+formula = "=D6-C6"
+value = -80
+type = "number"
+
+[sheets.cells.E7]
+formula = "=D7-C7"
+value = -2
+type = "number"
+
+[sheets.cells.E8]
+formula = "=D8-C8"
+value = -250
+type = "number"
+
+[sheets.cells.E9]
+formula = "=D9-C9"
+value = 0
+type = "number"
+
+[sheets.cells.F1]
+value = "Notes"
+type = "string"
+
+[sheets.cells.F2]
+value = "Extra Guji order for Q4"
+type = "string"
+
+[sheets.cells.F6]
+value = "Held back pre-launch"
+type = "string"
+
+[sheets.cells.F8]
+value = "Visit moved to October"
+type = "string"
+
+[sheets.dependencies.C10]
+depends_on = []
+dependents = ["C12", "E10"]
+
+[sheets.dependencies.C11]
+depends_on = []
+dependents = ["C12", "E11"]
+
+[sheets.dependencies.C12]
+depends_on = ["C10", "C11", "C2", "C3", "C4", "C5", "C6", "C7", "C8", "C9"]
+dependents = ["C14", "E12"]
+
+[sheets.dependencies.C13]
+depends_on = []
+dependents = ["C14", "E13"]
+
+[sheets.dependencies.C14]
+depends_on = ["C12", "C13"]
+dependents = ["E14"]
+
+[sheets.dependencies.C2]
+depends_on = []
+dependents = ["C12", "E2"]
+
+[sheets.dependencies.C3]
+depends_on = []
+dependents = ["C12", "E3"]
+
+[sheets.dependencies.C4]
+depends_on = []
+dependents = ["C12", "E4"]
+
+[sheets.dependencies.C5]
+depends_on = []
+dependents = ["C12", "E5"]
+
+[sheets.dependencies.C6]
+depends_on = []
+dependents = ["C12", "E6"]
+
+[sheets.dependencies.C7]
+depends_on = []
+dependents = ["C12", "E7"]
+
+[sheets.dependencies.C8]
+depends_on = []
+dependents = ["C12", "E8"]
+
+[sheets.dependencies.C9]
+depends_on = []
+dependents = ["C12", "E9"]
+
+[sheets.dependencies.D10]
+depends_on = []
+dependents = ["D12", "E10"]
+
+[sheets.dependencies.D11]
+depends_on = []
+dependents = ["D12", "E11"]
+
+[sheets.dependencies.D12]
+depends_on = ["D10", "D11", "D2", "D3", "D4", "D5", "D6", "D7", "D8", "D9"]
+dependents = ["D14", "E12"]
+
+[sheets.dependencies.D13]
+depends_on = []
+dependents = ["D14", "E13"]
+
+[sheets.dependencies.D14]
+depends_on = ["D12", "D13"]
+dependents = ["E14"]
+
+[sheets.dependencies.D2]
+depends_on = []
+dependents = ["D12", "E2"]
+
+[sheets.dependencies.D3]
+depends_on = []
+dependents = ["D12", "E3"]
+
+[sheets.dependencies.D4]
+depends_on = []
+dependents = ["D12", "E4"]
+
+[sheets.dependencies.D5]
+depends_on = []
+dependents = ["D12", "E5"]
+
+[sheets.dependencies.D6]
+depends_on = []
+dependents = ["D12", "E6"]
+
+[sheets.dependencies.D7]
+depends_on = []
+dependents = ["D12", "E7"]
+
+[sheets.dependencies.D8]
+depends_on = []
+dependents = ["D12", "E8"]
+
+[sheets.dependencies.D9]
+depends_on = []
+dependents = ["D12", "E9"]
+
+[sheets.dependencies.E10]
+depends_on = ["C10", "D10"]
+dependents = []
+
+[sheets.dependencies.E11]
+depends_on = ["C11", "D11"]
+dependents = []
+
+[sheets.dependencies.E12]
+depends_on = ["C12", "D12"]
+dependents = []
+
+[sheets.dependencies.E13]
+depends_on = ["C13", "D13"]
+dependents = []
+
+[sheets.dependencies.E14]
+depends_on = ["C14", "D14"]
+dependents = []
+
+[sheets.dependencies.E2]
+depends_on = ["C2", "D2"]
+dependents = []
+
+[sheets.dependencies.E3]
+depends_on = ["C3", "D3"]
+dependents = []
+
+[sheets.dependencies.E4]
+depends_on = ["C4", "D4"]
+dependents = []
+
+[sheets.dependencies.E5]
+depends_on = ["C5", "D5"]
+dependents = []
+
+[sheets.dependencies.E6]
+depends_on = ["C6", "D6"]
+dependents = []
+
+[sheets.dependencies.E7]
+depends_on = ["C7", "D7"]
+dependents = []
+
+[sheets.dependencies.E8]
+depends_on = ["C8", "D8"]
+dependents = []
+
+[sheets.dependencies.E9]
+depends_on = ["C9", "D9"]
+dependents = []
+
+

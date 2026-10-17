@@ -1,0 +1,44 @@
+# Roasting & Production SOPs
+
+## Purpose
+
+Document repeatable procedures for green coffee intake, roasting, cooling, resting, packaging, quality control, and order fulfillment.
+
+## Roast Record — Required Fields
+
+- Date and operator
+- Coffee / lot / supplier
+- Batch size and target yield
+- Charge temperature and environmental conditions
+- Turning point, first crack, development time, drop temperature, and total roast time
+- Roast outcome, defects, cupping notes, and next adjustment
+
+## Production Flow
+
+1. Confirm production plan, green inventory, packaging, and orders.
+2. Inspect and weigh green coffee.
+3. Roast to the approved profile and record actual data.
+4. Cool fully and remove chaff according to equipment procedure.
+5. Rest according to product standard before shipping when applicable.
+6. Perform quality check and retain a sample.
+7. Package with product name, roast date, lot information, net weight, and required labeling.
+8. Update inventory and complete the batch record.
+
+## Quality-Control Checks
+
+- No visible packaging damage or seal failure
+- Correct product, weight, label, and roast date
+- Sample aroma and appearance within expected range
+- Brew or cup sample recorded for each new profile and meaningful adjustment
+- Complaints and corrective actions logged
+
+## Safety and Compliance Notes
+
+Add local requirements for permits, food handling, allergen statements, labeling, sanitation, fire safety, and traceability before commercial production. This page is an operating template, not legal advice.
+
+## Change Log
+
+| Date | Change | Reason | Owner |
+|---|---|---|---|
+| 2026-09-01 | Initial operating template | Establish documentation baseline | PGCR |
+

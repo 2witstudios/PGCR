@@ -1,0 +1,22 @@
+{
+  "page": {
+    "id": "xgbipeatkenuer8qmbozcz4c",
+    "title": "Team Chat",
+    "type": "CHANNEL",
+    "hasChildren": false,
+    "isTaskLinked": false
+  },
+  "pageId": "xgbipeatkenuer8qmbozcz4c",
+  "pageTitle": "Team Chat",
+  "pageType": "CHANNEL",
+  "totalLines": 3,
+  "numberedLines": [
+    "   1 | [user] 01200321b3fcbd0e224c88fd618b6e94:f1fa20a6fc8a302612d02e7d77c5918e:60dd29b453a1997edd6575f4a4dd1724 (2026-09-09T15:38:17.853Z): I think we need to change our pricing",
+    "   2 | [user] 2ddc1e07661bc192500b1027a82640a1:f0eda0278c4d40b999b5c48ba373ee65:ee1bd6de01c7788e89702c (2026-09-09T15:52:30.565Z): @[Coffee Bot](xihq4mqth5achohchoqcvvwh:page) what are your thoughts? What are typical margins for coffee roasting businesses with no storefront? ",
+    "   3 | [agent] Coffee Bot (Sarah Smith) (2026-09-09T15:52:36.177Z): Sarah — for a small roastery without a storefront, typical targets are:\n\n| Metric | Practical benchmark |\n|---|---:|\n| Wholesale gross margin | 40–55% |\n| Direct retail gross margin | 55–70% |\n| Net operating margin after all overhead | 5–15%; 10–20% is strong |\n\nWholesale margins are tighter, while storefront-free businesses still need to absorb delivery, fulfillment labor, sales time, payment fees, samples, waste, utilities, equipment, and marketing.\n\nCoffee Co.’s current modeled margins are already above those benchmarks:\n\n- Wholesale: **59.6–69.2%**\n- Retail: **70.6–77.9%**\n- Calculator floors: **55% wholesale / 60% retail**\n\nSo I would not apply a blanket increase yet. First confirm that the calculator includes fully loaded variable costs—especially delivery, processing fees, samples, waste, and fulfillment labor—then target increases only at SKUs whose realized margins fall below our goal."
+  ],
+  "content": "[user] 01200321b3fcbd0e224c88fd618b6e94:f1fa20a6fc8a302612d02e7d77c5918e:60dd29b453a1997edd6575f4a4dd1724 (2026-09-09T15:38:17.853Z): I think we need to change our pricing\n[user] 2ddc1e07661bc192500b1027a82640a1:f0eda0278c4d40b999b5c48ba373ee65:ee1bd6de01c7788e89702c (2026-09-09T15:52:30.565Z): @[Coffee Bot](xihq4mqth5achohchoqcvvwh:page) what are your thoughts? What are typical margins for coffee roasting businesses with no storefront? \n[agent] Coffee Bot (Sarah Smith) (2026-09-09T15:52:36.177Z): Sarah — for a small roastery without a storefront, typical targets are:\n\n| Metric | Practical benchmark |\n|---|---:|\n| Wholesale gross margin | 40–55% |\n| Direct retail gross margin | 55–70% |\n| Net operating margin after all overhead | 5–15%; 10–20% is strong |\n\nWholesale margins are tighter, while storefront-free businesses still need to absorb delivery, fulfillment labor, sales time, payment fees, samples, waste, utilities, equipment, and marketing.\n\nCoffee Co.’s current modeled margins are already above those benchmarks:\n\n- Wholesale: **59.6–69.2%**\n- Retail: **70.6–77.9%**\n- Calculator floors: **55% wholesale / 60% retail**\n\nSo I would not apply a blanket increase yet. First confirm that the calculator includes fully loaded variable costs—especially delivery, processing fees, samples, waste, and fulfillment labor—then target increases only at SKUs whose realized margins fall below our goal.",
+  "messageCount": 3,
+  "totalMessages": 3
+}
+

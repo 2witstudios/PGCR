@@ -1,0 +1,34 @@
+# Team Handbook
+
+> How we work at Coffee Co. Skeleton now — fill sections in as they come up. Keep it honest and short.
+
+## Who we are
+- What the company does, the brand promise, and the standard we hold: **good coffee, consistently, without drama.**
+
+## Roles
+| Role | Who | Owns |
+| --- | --- | --- |
+| Head roaster | __________ | Roast log, QC, green buying |
+| Production / pack | __________ | Packaging, orders, shipping |
+| Sales & accounts | __________ | Customer relationships, invoicing |
+| Bookkeeping | __________ | Budget, COGS, monthly close |
+
+## Core routines
+- **Daily:** log every roast; check Packaging & Supplies reorder levels
+- **Weekly:** cup the week's batches (Cupping & QC Log); invoice wholesale accounts
+- **Monthly:** budget close; team check-in; maintenance review (Equipment Maintenance)
+
+## Key rules
+- If it isn't in the roast log, it didn't happen
+- Nothing ships below 7.0 in the QC log without the head roaster's sign-off
+- Suppliers get paid on terms; customers pay on theirs
+
+## Tools & access
+- This workspace — everyone gets their own login; no shadow docs outside it
+- Invoicing / POS: __________
+- Bank & payroll: __________ (restricted)
+
+## Onboarding
+New person works through **Team → Training Checklist** in order. Nothing on it is optional.
+
+

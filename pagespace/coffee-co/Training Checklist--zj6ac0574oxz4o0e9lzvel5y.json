@@ -1,0 +1,192 @@
+{
+  "page": {
+    "id": "zj6ac0574oxz4o0e9lzvel5y",
+    "title": "Training Checklist",
+    "type": "TASK_LIST",
+    "hasChildren": true,
+    "isTaskLinked": false
+  },
+  "pageId": "zj6ac0574oxz4o0e9lzvel5y",
+  "pageTitle": "Training Checklist",
+  "pageType": "TASK_LIST",
+  "taskListId": "q3ccwkwgb8aq06ynjsq2t8l0",
+  "parentTaskList": null,
+  "totalLines": 1,
+  "numberedLines": [
+    "   1 | "
+  ],
+  "content": "",
+  "tasks": [
+    {
+      "id": "m6jgel1x6vhyl0a0j0zdw9wr",
+      "title": "Week 4 — customer-facing",
+      "status": "pending",
+      "priority": "medium",
+      "assigneeId": "ujhttspdbz4ez6eeaqrox4pe",
+      "assigneeAgentId": null,
+      "dueDate": null,
+      "position": 1,
+      "completedAt": null,
+      "pageId": "fdmfilweujfehpp2zwb2jxan",
+      "assignee": {
+        "id": "ujhttspdbz4ez6eeaqrox4pe",
+        "name": "Jonathan Woodall",
+        "image": "/api/avatar/ujhttspdbz4ez6eeaqrox4pe/avatar.png?t=1777575598896"
+      },
+      "assigneeAgent": null,
+      "assignees": [
+        {
+          "userId": "ujhttspdbz4ez6eeaqrox4pe",
+          "agentPageId": null,
+          "user": {
+            "id": "ujhttspdbz4ez6eeaqrox4pe",
+            "name": "Jonathan Woodall"
+          },
+          "agentPage": null
+        }
+      ],
+      "hasContent": false,
+      "subTaskCount": 4,
+      "subTaskCompletedCount": 0
+    },
+    {
+      "id": "o57sp3hyfo3om4mk5xs4c532",
+      "title": "Week 3 — coffee knowledge",
+      "status": "pending",
+      "priority": "medium",
+      "assigneeId": "c9wnmgofabm9edzco295dcfw",
+      "assigneeAgentId": null,
+      "dueDate": null,
+      "position": 1,
+      "completedAt": null,
+      "pageId": "vr7x2sx5vop2zi8a8p6nrmln",
+      "assignee": {
+        "id": "c9wnmgofabm9edzco295dcfw",
+        "name": "Jonathan Woodall",
+        "image": "/api/avatar/c9wnmgofabm9edzco295dcfw/avatar.png?t=1781231703460"
+      },
+      "assigneeAgent": null,
+      "assignees": [
+        {
+          "userId": "c9wnmgofabm9edzco295dcfw",
+          "agentPageId": null,
+          "user": {
+            "id": "c9wnmgofabm9edzco295dcfw",
+            "name": "Jonathan Woodall"
+          },
+          "agentPage": null
+        }
+      ],
+      "hasContent": false,
+      "subTaskCount": 3,
+      "subTaskCompletedCount": 0
+    },
+    {
+      "id": "pmi4ai62sgce02fcv1i45gx9",
+      "title": "Week 2 — roasting floor",
+      "status": "pending",
+      "priority": "medium",
+      "assigneeId": "u7zwr94isv40f81dbyamsw3e",
+      "assigneeAgentId": null,
+      "dueDate": null,
+      "position": 1,
+      "completedAt": null,
+      "pageId": "kfrxqlkma6fdnpkkfn6qdha0",
+      "assignee": {
+        "id": "u7zwr94isv40f81dbyamsw3e",
+        "name": "Sarah Smith",
+        "image": "/api/avatar/u7zwr94isv40f81dbyamsw3e/avatar.png?t=1771545348538"
+      },
+      "assigneeAgent": null,
+      "assignees": [
+        {
+          "userId": "u7zwr94isv40f81dbyamsw3e",
+          "agentPageId": null,
+          "user": {
+            "id": "u7zwr94isv40f81dbyamsw3e",
+            "name": "Sarah Smith"
+          },
+          "agentPage": null
+        }
+      ],
+      "hasContent": false,
+      "subTaskCount": 4,
+      "subTaskCompletedCount": 0
+    },
+    {
+      "id": "s3n61gqvbedct51byuo3klox",
+      "title": "Week 1 — safety & basics",
+      "status": "pending",
+      "priority": "medium",
+      "assigneeId": "u7zwr94isv40f81dbyamsw3e",
+      "assigneeAgentId": null,
+      "dueDate": null,
+      "position": 1,
+      "completedAt": null,
+      "pageId": "drodc8zfgltvhtuv1j4kxpa6",
+      "assignee": {
+        "id": "u7zwr94isv40f81dbyamsw3e",
+        "name": "Sarah Smith",
+        "image": "/api/avatar/u7zwr94isv40f81dbyamsw3e/avatar.png?t=1771545348538"
+      },
+      "assigneeAgent": null,
+      "assignees": [
+        {
+          "userId": "u7zwr94isv40f81dbyamsw3e",
+          "agentPageId": null,
+          "user": {
+            "id": "u7zwr94isv40f81dbyamsw3e",
+            "name": "Sarah Smith"
+          },
+          "agentPage": null
+        }
+      ],
+      "hasContent": false,
+      "subTaskCount": 4,
+      "subTaskCompletedCount": 0
+    }
+  ],
+  "availableStatuses": [
+    {
+      "slug": "pending",
+      "label": "To Do",
+      "group": "todo",
+      "position": 0,
+      "color": "bg-slate-100 text-slate-700 dark:bg-slate-800 dark:text-slate-300"
+    },
+    {
+      "slug": "in_progress",
+      "label": "In Progress",
+      "group": "in_progress",
+      "position": 1,
+      "color": "bg-amber-100 text-amber-700 dark:bg-amber-900 dark:text-amber-300"
+    },
+    {
+      "slug": "blocked",
+      "label": "Blocked",
+      "group": "in_progress",
+      "position": 2,
+      "color": "bg-red-100 text-red-700 dark:bg-red-900 dark:text-red-300"
+    },
+    {
+      "slug": "completed",
+      "label": "Done",
+      "group": "done",
+      "position": 3,
+      "color": "bg-green-100 text-green-700 dark:bg-green-900 dark:text-green-300"
+    }
+  ],
+  "progress": {
+    "total": 4,
+    "percentage": 0,
+    "byGroup": {
+      "todo": 4,
+      "in_progress": 0,
+      "done": 0
+    },
+    "bySlug": {
+      "pending": 4
+    }
+  }
+}
+

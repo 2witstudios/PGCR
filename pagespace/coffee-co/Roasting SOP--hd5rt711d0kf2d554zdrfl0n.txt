@@ -1,0 +1,39 @@
+# Roasting SOP
+
+> Standard operating procedure for the roasting floor. Draft the real steps here; each section below marks what it needs to cover. Review after the first month and after any equipment change.
+
+## 1. Daily startup
+- [ ] Machine checks before first batch: drum clean-out, gas pressure, thermocouple reading
+- [ ] Warm-up procedure: target preheat temp and time
+- [ ] Record first-check values here: __________
+
+## 2. Charging & batch setup
+- [ ] Charge temp by roast level (see Roasting Log profile reference)
+- [ ] Batch size; green moisture check on new lots
+- [ ] Green weighed and named per convention (`Origin Name` — matches inventory)
+
+## 3. During the roast
+- [ ] Turning point, yellowing, first crack — record in the Roasting Log
+- [ ] Development time targets by roast level
+- [ ] Acceptable drop-temp window per profile
+
+## 4. Cooling & discharge
+- [ ] Cooling cycle length, target exit temp
+- [ ] Rest time before bagging (off-gassing)
+
+## 5. After the roast
+- [ ] Log the batch in the Roasting Log — required: date, coffee, batch ref, green in, roasted out, charge/drop temps, first crack, dev time, level, destination
+- [ ] Sample set aside for cupping → **Quality Control → Cupping & QC Log**
+- [ ] Clean chaff tray; machine shutdown per checklist
+
+## 6. Safety
+- [ ] Gas shutoff location and procedure
+- [ ] Fire response: chaff fire, drum fire — steps and extinguisher locations
+- [ ] Ventilation and PPE requirements
+
+## Change log
+| Date | Change | By |
+| --- | --- | --- |
+| 2026-09-09 | Skeleton created | |
+
+

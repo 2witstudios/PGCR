@@ -1,0 +1,72 @@
+#%PAGESPACE_SHEETDOC v1
+page_id = "u933k4jxwqb0v8xksj1nzuqw"
+
+[[sheets]]
+name = "Sheet1"
+order = 0
+
+[sheets.meta]
+row_count = 20
+column_count = 10
+
+[sheets.cells.A1]
+value = "Product"
+type = "string"
+
+[sheets.cells.A2]
+value = "Everyday House Blend"
+type = "string"
+
+[sheets.cells.A3]
+value = "Seasonal / Single Origin"
+type = "string"
+
+[sheets.cells.A4]
+value = "Decaf"
+type = "string"
+
+[sheets.cells.B1]
+value = "Origin / Blend"
+type = "string"
+
+[sheets.cells.C1]
+value = "Process"
+type = "string"
+
+[sheets.cells.D1]
+value = "Roast Level"
+type = "string"
+
+[sheets.cells.E1]
+value = "Bag Size g"
+type = "string"
+
+[sheets.cells.F1]
+value = "Retail Price"
+type = "string"
+
+[sheets.cells.G1]
+value = "Wholesale Price"
+type = "string"
+
+[sheets.cells.H1]
+value = "Status"
+type = "string"
+
+[sheets.cells.H2]
+value = "Draft"
+type = "string"
+
+[sheets.cells.H3]
+value = "Draft"
+type = "string"
+
+[sheets.cells.H4]
+value = "Evaluate"
+type = "string"
+
+[sheets.cells.I1]
+value = "Launch Notes"
+type = "string"
+
+

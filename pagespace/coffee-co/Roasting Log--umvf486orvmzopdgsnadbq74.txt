@@ -1,0 +1,376 @@
+#%PAGESPACE_SHEETDOC v1
+page_id = "umvf486orvmzopdgsnadbq74"
+
+[[sheets]]
+name = "Sheet1"
+order = 0
+
+[sheets.meta]
+row_count = 20
+column_count = 14
+
+[sheets.cells.A1]
+value = "Date"
+type = "string"
+
+[sheets.cells.A10]
+value = "Ethiopia Guji (light)"
+type = "string"
+
+[sheets.cells.A11]
+value = "Decaf"
+type = "string"
+
+[sheets.cells.A2]
+value = "2026-09-08"
+type = "string"
+
+[sheets.cells.A3]
+value = "2026-09-08"
+type = "string"
+
+[sheets.cells.A4]
+value = "2026-09-07"
+type = "string"
+
+[sheets.cells.A5]
+value = "2026-09-07"
+type = "string"
+
+[sheets.cells.A6]
+value = "2026-09-06"
+type = "string"
+
+[sheets.cells.A8]
+value = "Profile reference"
+type = "string"
+
+[sheets.cells.A9]
+value = "House Blend (medium)"
+type = "string"
+
+[sheets.cells.B1]
+value = "Coffee"
+type = "string"
+
+[sheets.cells.B10]
+value = "charge 190°C · drop 199–202°C · dev 18–20%"
+type = "string"
+
+[sheets.cells.B11]
+value = "same as medium, +5°C"
+type = "string"
+
+[sheets.cells.B2]
+value = "House Blend"
+type = "string"
+
+[sheets.cells.B3]
+value = "Ethiopia Guji Natural"
+type = "string"
+
+[sheets.cells.B4]
+value = "House Blend"
+type = "string"
+
+[sheets.cells.B5]
+value = "Decaf Colombia"
+type = "string"
+
+[sheets.cells.B6]
+value = "Colombia La Esperanza"
+type = "string"
+
+[sheets.cells.B8]
+value = "charge / drop / dev targets"
+type = "string"
+
+[sheets.cells.B9]
+value = "charge 195°C · drop 204–207°C · dev 17–19%"
+type = "string"
+
+[sheets.cells.C1]
+value = "Batch ref"
+type = "string"
+
+[sheets.cells.C2]
+value = "R-0922"
+type = "string"
+
+[sheets.cells.C3]
+value = "R-0921"
+type = "string"
+
+[sheets.cells.C4]
+value = "R-0920"
+type = "string"
+
+[sheets.cells.C5]
+value = "R-0919"
+type = "string"
+
+[sheets.cells.C6]
+value = "R-0918"
+type = "string"
+
+[sheets.cells.D1]
+value = "Green in (kg)"
+type = "string"
+
+[sheets.cells.D2]
+value = 12
+type = "number"
+
+[sheets.cells.D3]
+value = 6
+type = "number"
+
+[sheets.cells.D4]
+value = 12
+type = "number"
+
+[sheets.cells.D5]
+value = 5
+type = "number"
+
+[sheets.cells.D6]
+value = 9
+type = "number"
+
+[sheets.cells.E1]
+value = "Roasted out (kg)"
+type = "string"
+
+[sheets.cells.E2]
+value = 10.2
+type = "number"
+
+[sheets.cells.E3]
+value = 5.1
+type = "number"
+
+[sheets.cells.E4]
+value = 10.2
+type = "number"
+
+[sheets.cells.E5]
+value = 4.2
+type = "number"
+
+[sheets.cells.E6]
+value = 7.6
+type = "number"
+
+[sheets.cells.F1]
+value = "Loss %"
+type = "string"
+
+[sheets.cells.F2]
+value = 15
+type = "number"
+
+[sheets.cells.F3]
+value = 15
+type = "number"
+
+[sheets.cells.F4]
+value = 15
+type = "number"
+
+[sheets.cells.F5]
+value = 16
+type = "number"
+
+[sheets.cells.F6]
+value = 15.6
+type = "number"
+
+[sheets.cells.G1]
+value = "Charge temp (°C)"
+type = "string"
+
+[sheets.cells.G2]
+value = 195
+type = "number"
+
+[sheets.cells.G3]
+value = 190
+type = "number"
+
+[sheets.cells.G4]
+value = 195
+type = "number"
+
+[sheets.cells.G5]
+value = 200
+type = "number"
+
+[sheets.cells.G6]
+value = 192
+type = "number"
+
+[sheets.cells.H1]
+value = "Drop temp (°C)"
+type = "string"
+
+[sheets.cells.H2]
+value = 205
+type = "number"
+
+[sheets.cells.H3]
+value = 200
+type = "number"
+
+[sheets.cells.H4]
+value = 206
+type = "number"
+
+[sheets.cells.H5]
+value = 210
+type = "number"
+
+[sheets.cells.H6]
+value = 203
+type = "number"
+
+[sheets.cells.I1]
+value = "First crack"
+type = "string"
+
+[sheets.cells.I2]
+value = "8:30"
+type = "string"
+
+[sheets.cells.I3]
+value = "8:10"
+type = "string"
+
+[sheets.cells.I4]
+value = "8:45"
+type = "string"
+
+[sheets.cells.I5]
+value = "8:20"
+type = "string"
+
+[sheets.cells.I6]
+value = "8:55"
+type = "string"
+
+[sheets.cells.J1]
+value = "Dev time"
+type = "string"
+
+[sheets.cells.J2]
+value = "1:50"
+type = "string"
+
+[sheets.cells.J3]
+value = "1:45"
+type = "string"
+
+[sheets.cells.J4]
+value = "1:48"
+type = "string"
+
+[sheets.cells.J5]
+value = "1:40"
+type = "string"
+
+[sheets.cells.J6]
+value = "1:35"
+type = "string"
+
+[sheets.cells.K1]
+value = "Dev %"
+type = "string"
+
+[sheets.cells.K2]
+value = 18
+type = "number"
+
+[sheets.cells.K3]
+value = 18.5
+type = "number"
+
+[sheets.cells.K4]
+value = 17.6
+type = "number"
+
+[sheets.cells.K5]
+value = 17.4
+type = "number"
+
+[sheets.cells.K6]
+value = 16.5
+type = "number"
+
+[sheets.cells.L1]
+value = "Roast level"
+type = "string"
+
+[sheets.cells.L2]
+value = "Medium"
+type = "string"
+
+[sheets.cells.L3]
+value = "Light"
+type = "string"
+
+[sheets.cells.L4]
+value = "Medium"
+type = "string"
+
+[sheets.cells.L5]
+value = "Med-dark"
+type = "string"
+
+[sheets.cells.L6]
+value = "Medium"
+type = "string"
+
+[sheets.cells.M1]
+value = "Destination"
+type = "string"
+
+[sheets.cells.M2]
+value = "Cascade Café + web shop"
+type = "string"
+
+[sheets.cells.M3]
+value = "Retail bags"
+type = "string"
+
+[sheets.cells.M4]
+value = "Riverside Taproom"
+type = "string"
+
+[sheets.cells.M5]
+value = "Web shop"
+type = "string"
+
+[sheets.cells.M6]
+value = "QC hold"
+type = "string"
+
+[sheets.cells.N1]
+value = "Notes"
+type = "string"
+
+[sheets.cells.N2]
+value = "On profile"
+type = "string"
+
+[sheets.cells.N3]
+value = "Best batch of the week"
+type = "string"
+
+[sheets.cells.N4]
+value = "Slightly fast — watch charge temp"
+type = "string"
+
+[sheets.cells.N6]
+value = "Underdeveloped — see QC log"
+type = "string"
+
+

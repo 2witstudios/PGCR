@@ -1,0 +1,65 @@
+{
+  "page": {
+    "id": "nt6beegra2679xsnlx9fl040",
+    "title": "Charge and roast one batch under supervision",
+    "type": "TASK_LIST",
+    "hasChildren": false,
+    "isTaskLinked": true
+  },
+  "pageId": "nt6beegra2679xsnlx9fl040",
+  "pageTitle": "Charge and roast one batch under supervision",
+  "pageType": "TASK_LIST",
+  "taskListId": "gurebzbnbz8fon0y77apkwhv",
+  "parentTaskList": {
+    "pageId": "kfrxqlkma6fdnpkkfn6qdha0",
+    "title": "Week 2 — roasting floor",
+    "taskListId": "wswfupi62jzha6fawcud49qi"
+  },
+  "totalLines": 1,
+  "numberedLines": [
+    "   1 | "
+  ],
+  "content": "",
+  "tasks": [],
+  "availableStatuses": [
+    {
+      "slug": "pending",
+      "label": "To Do",
+      "group": "todo",
+      "position": 0,
+      "color": "bg-slate-100 text-slate-700 dark:bg-slate-800 dark:text-slate-300"
+    },
+    {
+      "slug": "in_progress",
+      "label": "In Progress",
+      "group": "in_progress",
+      "position": 1,
+      "color": "bg-amber-100 text-amber-700 dark:bg-amber-900 dark:text-amber-300"
+    },
+    {
+      "slug": "blocked",
+      "label": "Blocked",
+      "group": "in_progress",
+      "position": 2,
+      "color": "bg-red-100 text-red-700 dark:bg-red-900 dark:text-red-300"
+    },
+    {
+      "slug": "completed",
+      "label": "Done",
+      "group": "done",
+      "position": 3,
+      "color": "bg-green-100 text-green-700 dark:bg-green-900 dark:text-green-300"
+    }
+  ],
+  "progress": {
+    "total": 0,
+    "percentage": 0,
+    "byGroup": {
+      "todo": 0,
+      "in_progress": 0,
+      "done": 0
+    },
+    "bySlug": {}
+  }
+}
+

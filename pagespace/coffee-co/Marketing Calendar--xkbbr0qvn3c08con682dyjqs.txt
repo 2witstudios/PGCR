@@ -1,0 +1,25 @@
+# Marketing Calendar
+
+> What we're promoting, where, and when. Keep one season ahead; fill in the **Result** column after each push so we learn what worked.
+
+## Q4 2026 — holiday season
+
+| When | What | Channel | Owner | Status | Result (after) |
+| --- | --- | --- | --- | --- | --- |
+| Oct 12–25 | New-crop Ethiopia Guji launch — subscriber pre-order | Email + web shop | __________ | Planned | |
+| Nov 1–15 | Wholesale holiday gifting push (sampler 3-pack) | Direct outreach to cafés | __________ | Planned | |
+| Nov 20–30 | Small Business Saturday bundle | Web + farmers market | __________ | Planned | |
+| Dec 1–18 | Last-shipping-dates campaign | Email + social | __________ | Planned | |
+| Dec 20–31 | Gift cards + "roast on the 26th" pickup | Web shop | __________ | Planned | |
+
+## Evergreen / recurring
+- **Farmers market (Sundays):** brew bar, brew card in every bag
+- **First Friday:** cupping open to account owners — invite by email
+- **Monthly:** one featured origin on the web shop banner; social posts 3×/week
+
+## Ideas parking lot
+- Subscription tier with roaster's picks
+- Latte-art throwdown co-hosted with Cascade Café
+- Paid public cupping class
+
+

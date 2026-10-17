@@ -1,0 +1,232 @@
+#%PAGESPACE_SHEETDOC v1
+page_id = "y5bpje2mzfuwjqdpzpc6vrit"
+
+[[sheets]]
+name = "Sheet1"
+order = 0
+
+[sheets.meta]
+row_count = 20
+column_count = 13
+
+[sheets.cells.A1]
+value = "Date"
+type = "string"
+
+[sheets.cells.A2]
+value = "2026-09-08"
+type = "string"
+
+[sheets.cells.A3]
+value = "2026-09-08"
+type = "string"
+
+[sheets.cells.A4]
+value = "2026-09-06"
+type = "string"
+
+[sheets.cells.A6]
+value = "Reference"
+type = "string"
+
+[sheets.cells.A7]
+value = "Target extraction"
+type = "string"
+
+[sheets.cells.A8]
+value = "Espresso starting point"
+type = "string"
+
+[sheets.cells.A9]
+value = "Filter starting point"
+type = "string"
+
+[sheets.cells.B1]
+value = "Coffee"
+type = "string"
+
+[sheets.cells.B2]
+value = "House Blend"
+type = "string"
+
+[sheets.cells.B3]
+value = "Ethiopia Guji Natural"
+type = "string"
+
+[sheets.cells.B4]
+value = "House Blend"
+type = "string"
+
+[sheets.cells.B6]
+value = "targets"
+type = "string"
+
+[sheets.cells.B7]
+value = "18–22% (TDS × brew weight ÷ dose)"
+type = "string"
+
+[sheets.cells.B8]
+value = "1:2 in 25–32 s"
+type = "string"
+
+[sheets.cells.B9]
+value = "1:16–1:17 at 93–96°C"
+type = "string"
+
+[sheets.cells.C1]
+value = "Method"
+type = "string"
+
+[sheets.cells.C2]
+value = "Espresso"
+type = "string"
+
+[sheets.cells.C3]
+value = "V60"
+type = "string"
+
+[sheets.cells.C4]
+value = "Batch brew (2 L)"
+type = "string"
+
+[sheets.cells.D1]
+value = "Dose (g)"
+type = "string"
+
+[sheets.cells.D2]
+value = 18
+type = "number"
+
+[sheets.cells.D3]
+value = 15
+type = "number"
+
+[sheets.cells.D4]
+value = 120
+type = "number"
+
+[sheets.cells.E1]
+value = "Water (g)"
+type = "string"
+
+[sheets.cells.E2]
+value = 36
+type = "number"
+
+[sheets.cells.E3]
+value = 250
+type = "number"
+
+[sheets.cells.E4]
+value = 2000
+type = "number"
+
+[sheets.cells.F1]
+value = "Ratio"
+type = "string"
+
+[sheets.cells.F2]
+value = "1:2"
+type = "string"
+
+[sheets.cells.F3]
+value = "1:16.7"
+type = "string"
+
+[sheets.cells.F4]
+value = "1:16.7"
+type = "string"
+
+[sheets.cells.G1]
+value = "Grind"
+type = "string"
+
+[sheets.cells.G2]
+value = "Grinder A — 4.5"
+type = "string"
+
+[sheets.cells.G3]
+value = "Medium-fine"
+type = "string"
+
+[sheets.cells.G4]
+value = "Medium"
+type = "string"
+
+[sheets.cells.H1]
+value = "Temp (°C)"
+type = "string"
+
+[sheets.cells.H2]
+value = 93
+type = "number"
+
+[sheets.cells.H3]
+value = 96
+type = "number"
+
+[sheets.cells.H4]
+value = 94
+type = "number"
+
+[sheets.cells.I1]
+value = "Time"
+type = "string"
+
+[sheets.cells.I2]
+value = "0:28"
+type = "string"
+
+[sheets.cells.I3]
+value = "2:45"
+type = "string"
+
+[sheets.cells.I4]
+value = "5:00"
+type = "string"
+
+[sheets.cells.J1]
+value = "TDS %"
+type = "string"
+
+[sheets.cells.J3]
+value = 1.38
+type = "number"
+
+[sheets.cells.J4]
+value = 1.35
+type = "number"
+
+[sheets.cells.K1]
+value = "Extraction %"
+type = "string"
+
+[sheets.cells.K3]
+value = 19.5
+type = "number"
+
+[sheets.cells.K4]
+value = 19
+type = "number"
+
+[sheets.cells.L1]
+value = "Notes"
+type = "string"
+
+[sheets.cells.L2]
+value = "Balanced, cocoa finish"
+type = "string"
+
+[sheets.cells.L3]
+value = "Florals pop, tea body"
+type = "string"
+
+[sheets.cells.L4]
+value = "Cafés liked it"
+type = "string"
+
+[sheets.cells.M1]
+value = "Who"
+type = "string"
+
+

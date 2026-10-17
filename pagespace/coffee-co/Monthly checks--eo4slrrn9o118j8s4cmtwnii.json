@@ -1,0 +1,140 @@
+{
+  "page": {
+    "id": "eo4slrrn9o118j8s4cmtwnii",
+    "title": "Monthly checks",
+    "type": "TASK_LIST",
+    "hasChildren": true,
+    "isTaskLinked": true
+  },
+  "pageId": "eo4slrrn9o118j8s4cmtwnii",
+  "pageTitle": "Monthly checks",
+  "pageType": "TASK_LIST",
+  "taskListId": "mg38n6n2lhuqlkgc9dy3f8e2",
+  "parentTaskList": {
+    "pageId": "z4gqxx4tq9f40iuz04n6ag25",
+    "title": "Equipment Maintenance",
+    "taskListId": "rk6nzvpq8lb8w8mt9htztzjp"
+  },
+  "totalLines": 1,
+  "numberedLines": [
+    "   1 | "
+  ],
+  "content": "",
+  "tasks": [
+    {
+      "id": "h7qzbif8ogg0uiykrxhgo0cr",
+      "title": "Deep-clean grinder burrs",
+      "status": "pending",
+      "priority": "medium",
+      "assigneeId": null,
+      "assigneeAgentId": null,
+      "dueDate": null,
+      "position": 1,
+      "completedAt": null,
+      "pageId": "z3qa0ba37o7ednh3k898u81z",
+      "assignee": null,
+      "assigneeAgent": null,
+      "assignees": [],
+      "hasContent": false,
+      "subTaskCount": 0,
+      "subTaskCompletedCount": 0
+    },
+    {
+      "id": "i41671ixl7g2m17hl4xclgs4",
+      "title": "Inspect door gasket and drum seals",
+      "status": "pending",
+      "priority": "medium",
+      "assigneeId": null,
+      "assigneeAgentId": null,
+      "dueDate": null,
+      "position": 1,
+      "completedAt": null,
+      "pageId": "vk4e1lvmv1t2osx0q54wfny4",
+      "assignee": null,
+      "assigneeAgent": null,
+      "assignees": [],
+      "hasContent": false,
+      "subTaskCount": 0,
+      "subTaskCompletedCount": 0
+    },
+    {
+      "id": "uobcmad97ohx5tsc9pfnime8",
+      "title": "Check thermocouple against reference thermometer",
+      "status": "pending",
+      "priority": "medium",
+      "assigneeId": null,
+      "assigneeAgentId": null,
+      "dueDate": null,
+      "position": 1,
+      "completedAt": null,
+      "pageId": "hx2hf5bjyuennfqkq5j4721v",
+      "assignee": null,
+      "assigneeAgent": null,
+      "assignees": [],
+      "hasContent": false,
+      "subTaskCount": 0,
+      "subTaskCompletedCount": 0
+    },
+    {
+      "id": "xkwxfodtrw9s9k1hfimgjv1u",
+      "title": "Vacuum drum interior and cyclone",
+      "status": "pending",
+      "priority": "medium",
+      "assigneeId": null,
+      "assigneeAgentId": null,
+      "dueDate": null,
+      "position": 1,
+      "completedAt": null,
+      "pageId": "zq3ph1x0oirbkviihq37pt84",
+      "assignee": null,
+      "assigneeAgent": null,
+      "assignees": [],
+      "hasContent": false,
+      "subTaskCount": 0,
+      "subTaskCompletedCount": 0
+    }
+  ],
+  "availableStatuses": [
+    {
+      "slug": "pending",
+      "label": "To Do",
+      "group": "todo",
+      "position": 0,
+      "color": "bg-slate-100 text-slate-700 dark:bg-slate-800 dark:text-slate-300"
+    },
+    {
+      "slug": "in_progress",
+      "label": "In Progress",
+      "group": "in_progress",
+      "position": 1,
+      "color": "bg-amber-100 text-amber-700 dark:bg-amber-900 dark:text-amber-300"
+    },
+    {
+      "slug": "blocked",
+      "label": "Blocked",
+      "group": "in_progress",
+      "position": 2,
+      "color": "bg-red-100 text-red-700 dark:bg-red-900 dark:text-red-300"
+    },
+    {
+      "slug": "completed",
+      "label": "Done",
+      "group": "done",
+      "position": 3,
+      "color": "bg-green-100 text-green-700 dark:bg-green-900 dark:text-green-300"
+    }
+  ],
+  "progress": {
+    "total": 4,
+    "percentage": 0,
+    "byGroup": {
+      "todo": 4,
+      "in_progress": 0,
+      "done": 0
+    },
+    "bySlug": {
+      "pending": 4
+    }
+  }
+}
+

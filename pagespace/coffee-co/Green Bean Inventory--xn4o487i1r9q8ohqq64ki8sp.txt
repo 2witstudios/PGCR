@@ -1,0 +1,272 @@
+#%PAGESPACE_SHEETDOC v1
+page_id = "xn4o487i1r9q8ohqq64ki8sp"
+
+[[sheets]]
+name = "Sheet1"
+order = 0
+
+[sheets.meta]
+row_count = 20
+column_count = 11
+
+[sheets.cells.A1]
+value = "Origin"
+type = "string"
+
+[sheets.cells.A2]
+value = "Ethiopia"
+type = "string"
+
+[sheets.cells.A3]
+value = "Colombia"
+type = "string"
+
+[sheets.cells.A4]
+value = "Brazil"
+type = "string"
+
+[sheets.cells.A5]
+value = "Guatemala"
+type = "string"
+
+[sheets.cells.A6]
+value = "Sumatra"
+type = "string"
+
+[sheets.cells.B1]
+value = "Producer / Co-op"
+type = "string"
+
+[sheets.cells.B2]
+value = "Guji Highlands Co-op"
+type = "string"
+
+[sheets.cells.B3]
+value = "Finca La Esperanza"
+type = "string"
+
+[sheets.cells.B4]
+value = "Fazenda Santa Clara"
+type = "string"
+
+[sheets.cells.B5]
+value = "Huehue Highlands"
+type = "string"
+
+[sheets.cells.B6]
+value = "Kerinci Smallholders"
+type = "string"
+
+[sheets.cells.C1]
+value = "Lot ID"
+type = "string"
+
+[sheets.cells.C2]
+value = "ETH-GUJ-24-118"
+type = "string"
+
+[sheets.cells.C3]
+value = "COL-ESP-26-031"
+type = "string"
+
+[sheets.cells.C4]
+value = "BRA-SCL-26-207"
+type = "string"
+
+[sheets.cells.C5]
+value = "GTM-HUE-25-402"
+type = "string"
+
+[sheets.cells.C6]
+value = "IDN-KRC-25-015"
+type = "string"
+
+[sheets.cells.D1]
+value = "Process"
+type = "string"
+
+[sheets.cells.D2]
+value = "Natural"
+type = "string"
+
+[sheets.cells.D3]
+value = "Washed"
+type = "string"
+
+[sheets.cells.D4]
+value = "Pulped natural"
+type = "string"
+
+[sheets.cells.D5]
+value = "Washed"
+type = "string"
+
+[sheets.cells.D6]
+value = "Wet-hulled"
+type = "string"
+
+[sheets.cells.E1]
+value = "Variety"
+type = "string"
+
+[sheets.cells.E2]
+value = "Heirloom"
+type = "string"
+
+[sheets.cells.E3]
+value = "Caturra"
+type = "string"
+
+[sheets.cells.E4]
+value = "Yellow Bourbon"
+type = "string"
+
+[sheets.cells.E5]
+value = "Bourbon"
+type = "string"
+
+[sheets.cells.E6]
+value = "Andung Sari"
+type = "string"
+
+[sheets.cells.F1]
+value = "Kg on hand"
+type = "string"
+
+[sheets.cells.F2]
+value = 42.5
+type = "number"
+
+[sheets.cells.F3]
+value = 68
+type = "number"
+
+[sheets.cells.F4]
+value = 120
+type = "number"
+
+[sheets.cells.F5]
+value = 18
+type = "number"
+
+[sheets.cells.F6]
+value = 0
+type = "number"
+
+[sheets.cells.G1]
+value = "Cost per kg (USD)"
+type = "string"
+
+[sheets.cells.G2]
+value = 9.8
+type = "number"
+
+[sheets.cells.G3]
+value = 7.4
+type = "number"
+
+[sheets.cells.G4]
+value = 6.1
+type = "number"
+
+[sheets.cells.G5]
+value = 8.25
+type = "number"
+
+[sheets.cells.G6]
+value = 7.9
+type = "number"
+
+[sheets.cells.H1]
+value = "Arrived"
+type = "string"
+
+[sheets.cells.H2]
+value = "2026-08-14"
+type = "string"
+
+[sheets.cells.H3]
+value = "2026-07-22"
+type = "string"
+
+[sheets.cells.H4]
+value = "2026-06-30"
+type = "string"
+
+[sheets.cells.H5]
+value = "2026-05-19"
+type = "string"
+
+[sheets.cells.H6]
+value = "2026-04-08"
+type = "string"
+
+[sheets.cells.I1]
+value = "Est. empty"
+type = "string"
+
+[sheets.cells.I2]
+value = "2026-10-02"
+type = "string"
+
+[sheets.cells.I3]
+value = "2026-11-10"
+type = "string"
+
+[sheets.cells.I4]
+value = "2026-12-01"
+type = "string"
+
+[sheets.cells.I5]
+value = "2026-09-20"
+type = "string"
+
+[sheets.cells.J1]
+value = "Tasting notes"
+type = "string"
+
+[sheets.cells.J2]
+value = "Blueberry, floral, cocoa"
+type = "string"
+
+[sheets.cells.J3]
+value = "Caramel, red apple, orange"
+type = "string"
+
+[sheets.cells.J4]
+value = "Chocolate, hazelnut, low acid"
+type = "string"
+
+[sheets.cells.J5]
+value = "Milk chocolate, round body"
+type = "string"
+
+[sheets.cells.J6]
+value = "Cedar, dark chocolate"
+type = "string"
+
+[sheets.cells.K1]
+value = "Notes"
+type = "string"
+
+[sheets.cells.K2]
+value = "Core single-origin"
+type = "string"
+
+[sheets.cells.K3]
+value = "House blend base"
+type = "string"
+
+[sheets.cells.K4]
+value = "House blend base"
+type = "string"
+
+[sheets.cells.K5]
+value = "Low — reorder soon"
+type = "string"
+
+[sheets.cells.K6]
+value = "Sold out — evaluate reorder"
+type = "string"
+
+

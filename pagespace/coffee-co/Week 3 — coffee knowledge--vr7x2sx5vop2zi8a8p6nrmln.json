@@ -1,0 +1,122 @@
+{
+  "page": {
+    "id": "vr7x2sx5vop2zi8a8p6nrmln",
+    "title": "Week 3 — coffee knowledge",
+    "type": "TASK_LIST",
+    "hasChildren": true,
+    "isTaskLinked": true
+  },
+  "pageId": "vr7x2sx5vop2zi8a8p6nrmln",
+  "pageTitle": "Week 3 — coffee knowledge",
+  "pageType": "TASK_LIST",
+  "taskListId": "vevt460yrgly518qhh46smvn",
+  "parentTaskList": {
+    "pageId": "zj6ac0574oxz4o0e9lzvel5y",
+    "title": "Training Checklist",
+    "taskListId": "q3ccwkwgb8aq06ynjsq2t8l0"
+  },
+  "totalLines": 1,
+  "numberedLines": [
+    "   1 | "
+  ],
+  "content": "",
+  "tasks": [
+    {
+      "id": "s3gz6gwosalsytv1jxdfrlp8",
+      "title": "Dial in espresso and filter; log in Brew & Extraction Log",
+      "status": "pending",
+      "priority": "medium",
+      "assigneeId": null,
+      "assigneeAgentId": null,
+      "dueDate": null,
+      "position": 1,
+      "completedAt": null,
+      "pageId": "nj4gun6o2twxbjng35546ryh",
+      "assignee": null,
+      "assigneeAgent": null,
+      "assignees": [],
+      "hasContent": false,
+      "subTaskCount": 0,
+      "subTaskCompletedCount": 0
+    },
+    {
+      "id": "f66gnfrviv8659zpibsosoz9",
+      "title": "Cup with the team; enter scores in Cupping & QC Log",
+      "status": "pending",
+      "priority": "medium",
+      "assigneeId": null,
+      "assigneeAgentId": null,
+      "dueDate": null,
+      "position": 2,
+      "completedAt": null,
+      "pageId": "wu9ojpze2rx3eqksns23u9mv",
+      "assignee": null,
+      "assigneeAgent": null,
+      "assignees": [],
+      "hasContent": false,
+      "subTaskCount": 0,
+      "subTaskCompletedCount": 0
+    },
+    {
+      "id": "t05vysst8ddxdcvt4y01k3bt",
+      "title": "Learn the product catalog (every SKU, blend, price)",
+      "status": "pending",
+      "priority": "medium",
+      "assigneeId": null,
+      "assigneeAgentId": null,
+      "dueDate": null,
+      "position": 2,
+      "completedAt": null,
+      "pageId": "pj1ldkhv2392o0aeiav4jny5",
+      "assignee": null,
+      "assigneeAgent": null,
+      "assignees": [],
+      "hasContent": false,
+      "subTaskCount": 0,
+      "subTaskCompletedCount": 0
+    }
+  ],
+  "availableStatuses": [
+    {
+      "slug": "pending",
+      "label": "To Do",
+      "group": "todo",
+      "position": 0,
+      "color": "bg-slate-100 text-slate-700 dark:bg-slate-800 dark:text-slate-300"
+    },
+    {
+      "slug": "in_progress",
+      "label": "In Progress",
+      "group": "in_progress",
+      "position": 1,
+      "color": "bg-amber-100 text-amber-700 dark:bg-amber-900 dark:text-amber-300"
+    },
+    {
+      "slug": "blocked",
+      "label": "Blocked",
+      "group": "in_progress",
+      "position": 2,
+      "color": "bg-red-100 text-red-700 dark:bg-red-900 dark:text-red-300"
+    },
+    {
+      "slug": "completed",
+      "label": "Done",
+      "group": "done",
+      "position": 3,
+      "color": "bg-green-100 text-green-700 dark:bg-green-900 dark:text-green-300"
+    }
+  ],
+  "progress": {
+    "total": 3,
+    "percentage": 0,
+    "byGroup": {
+      "todo": 3,
+      "in_progress": 0,
+      "done": 0
+    },
+    "bySlug": {
+      "pending": 3
+    }
+  }
+}
+

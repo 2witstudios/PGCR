@@ -1,0 +1,65 @@
+{
+  "page": {
+    "id": "px40evnoq9e91m9kubyv6pcg",
+    "title": "Final sign-off by head roaster",
+    "type": "TASK_LIST",
+    "hasChildren": false,
+    "isTaskLinked": true
+  },
+  "pageId": "px40evnoq9e91m9kubyv6pcg",
+  "pageTitle": "Final sign-off by head roaster",
+  "pageType": "TASK_LIST",
+  "taskListId": "yq2l4a84nc7w78muo2f14xom",
+  "parentTaskList": {
+    "pageId": "fdmfilweujfehpp2zwb2jxan",
+    "title": "Week 4 — customer-facing",
+    "taskListId": "ou6baxq202f8s0bkhvy18bui"
+  },
+  "totalLines": 1,
+  "numberedLines": [
+    "   1 | "
+  ],
+  "content": "",
+  "tasks": [],
+  "availableStatuses": [
+    {
+      "slug": "pending",
+      "label": "To Do",
+      "group": "todo",
+      "position": 0,
+      "color": "bg-slate-100 text-slate-700 dark:bg-slate-800 dark:text-slate-300"
+    },
+    {
+      "slug": "in_progress",
+      "label": "In Progress",
+      "group": "in_progress",
+      "position": 1,
+      "color": "bg-amber-100 text-amber-700 dark:bg-amber-900 dark:text-amber-300"
+    },
+    {
+      "slug": "blocked",
+      "label": "Blocked",
+      "group": "in_progress",
+      "position": 2,
+      "color": "bg-red-100 text-red-700 dark:bg-red-900 dark:text-red-300"
+    },
+    {
+      "slug": "completed",
+      "label": "Done",
+      "group": "done",
+      "position": 3,
+      "color": "bg-green-100 text-green-700 dark:bg-green-900 dark:text-green-300"
+    }
+  ],
+  "progress": {
+    "total": 0,
+    "percentage": 0,
+    "byGroup": {
+      "todo": 0,
+      "in_progress": 0,
+      "done": 0
+    },
+    "bySlug": {}
+  }
+}
+

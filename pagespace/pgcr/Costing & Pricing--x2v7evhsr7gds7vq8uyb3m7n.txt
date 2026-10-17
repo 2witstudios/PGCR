@@ -1,0 +1,103 @@
+#%PAGESPACE_SHEETDOC v1
+page_id = "x2v7evhsr7gds7vq8uyb3m7n"
+
+[[sheets]]
+name = "Sheet1"
+order = 0
+
+[sheets.meta]
+row_count = 20
+column_count = 10
+
+[sheets.cells.A1]
+value = "Product"
+type = "string"
+
+[sheets.cells.B1]
+value = "Bag Size g"
+type = "string"
+
+[sheets.cells.C1]
+value = "Green Coffee Cost / kg"
+type = "string"
+
+[sheets.cells.D1]
+value = "Packaging Cost"
+type = "string"
+
+[sheets.cells.E1]
+value = "Labor Cost / Bag"
+type = "string"
+
+[sheets.cells.F1]
+value = "Shipping / Fulfillment"
+type = "string"
+
+[sheets.cells.G1]
+value = "Total Cost / Bag"
+type = "string"
+
+[sheets.cells.G2]
+formula = "=SUM(C2*B2/1000,D2,E2,F2)"
+value = 0
+type = "number"
+
+[sheets.cells.H1]
+value = "Retail Price"
+type = "string"
+
+[sheets.cells.I1]
+value = "Gross Profit"
+type = "string"
+
+[sheets.cells.I2]
+formula = "=H2-G2"
+value = 0
+type = "number"
+
+[sheets.cells.J1]
+value = "Gross Margin"
+type = "string"
+
+[sheets.cells.J2]
+formula = "=IFERROR(I2/H2,0)"
+value = 0
+type = "number"
+
+[sheets.dependencies.B2]
+depends_on = []
+dependents = ["G2"]
+
+[sheets.dependencies.C2]
+depends_on = []
+dependents = ["G2"]
+
+[sheets.dependencies.D2]
+depends_on = []
+dependents = ["G2"]
+
+[sheets.dependencies.E2]
+depends_on = []
+dependents = ["G2"]
+
+[sheets.dependencies.F2]
+depends_on = []
+dependents = ["G2"]
+
+[sheets.dependencies.G2]
+depends_on = ["B2", "C2", "D2", "E2", "F2"]
+dependents = ["I2"]
+
+[sheets.dependencies.H2]
+depends_on = []
+dependents = ["I2", "J2"]
+
+[sheets.dependencies.I2]
+depends_on = ["G2", "H2"]
+dependents = ["J2"]
+
+[sheets.dependencies.J2]
+depends_on = ["H2", "I2"]
+dependents = []
+
+

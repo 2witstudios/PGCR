@@ -1,0 +1,38 @@
+# Supplier Directory
+
+> Importers, brokers, and packaging suppliers we buy from. Keep contact details current **before** buying season. One section per supplier.
+
+## Green coffee importers
+
+### Atlas Coffee Importers
+- **Coffees supplied:** Ethiopia Guji, Sumatra Kerinci
+- **Contact:** __________ (rep) · __________ (email) · __________ (phone)
+- **Terms:** Net 30 · minimum 1 bag (69 kg)
+- **Notes:** Sample offer before harvest contract; strong on naturals
+
+### Nordic Green Trading Co.
+- **Coffees supplied:** Colombia La Esperanza
+- **Contact:** __________
+- **Terms:** __________
+- **Notes:** __________
+
+### Brazil Direct Farms
+- **Coffees supplied:** Fazenda Santa Clara
+- **Contact:** __________
+- **Terms:** __________
+- **Notes:** __________
+
+## Packaging & sundries
+
+### (Supplier name)
+- **Supplies:** bags, valves, labels, boxes
+- **Contact:** __________
+- **Notes:** __________
+
+## Reorder rhythm
+| Supplier | Usual lead time | Typical order | Buy season |
+| --- | --- | --- | --- |
+| Atlas Coffee Importers | 3 weeks | 2× 69 kg bags | Nov–Jan (new crop) |
+|  |  |  |  |
+
+

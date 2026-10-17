@@ -1,0 +1,48 @@
+{
+  "page": {
+    "id": "fmioikbpweldpifd853qh0o5",
+    "title": "Start Here",
+    "type": "DOCUMENT",
+    "hasChildren": false,
+    "isTaskLinked": false
+  },
+  "pageId": "fmioikbpweldpifd853qh0o5",
+  "pageTitle": "Start Here",
+  "totalLines": 32,
+  "numberedLines": [
+    "   1 | # ☕ Coffee Co. — Start Here",
+    "   2 | ",
+    "   3 | Welcome to the roastery's workspace. Everything the business runs on lives here; this page says what goes where.",
+    "   4 | ",
+    "   5 | ## The map",
+    "   6 | ",
+    "   7 | | Folder | What lives there |",
+    "   8 | | --- | --- |",
+    "   9 | | **Operations** | The roasting floor: Roasting Log, Roasting SOP, Equipment Maintenance |",
+    "  10 | | **Sourcing & Inventory** | Green Bean Inventory, Supplier Directory, Packaging & Supplies |",
+    "  11 | | **Quality Control** | Cupping & QC Log, Brew & Extraction Log |",
+    "  12 | | **Sales & Marketing** | Customers & Accounts, Product Catalog & Pricing, Marketing Calendar |",
+    "  13 | | **Finance** | Monthly Budget, COGS & Pricing Calculator |",
+    "  14 | | **Team** | Team Handbook, Training Checklist |",
+    "  15 | | **Plans** | Project & build-out plans |",
+    "  16 | ",
+    "  17 | ## Working conventions",
+    "  18 | ",
+    "  19 | 1. **Roast log first.** Every batch gets a row in the Roasting Log before bags leave the floor. If it isn't logged, it didn't happen.",
+    "  20 | 2. **One name per coffee.** Use the same canonical name everywhere (e.g. `Ethiopia Guji Natural`) — inventory, roast log, QC, catalog. Cross-referencing depends on it.",
+    "  21 | 3. **Dates as `YYYY-MM-DD`.** Sorts correctly everywhere.",
+    "  22 | 4. **kg for weight, USD for money.** Numbers stored plain (no `$` or commas) so math works; units live in the headers.",
+    "  23 | 5. **Sample data is fake.** The starter rows use fictional names and numbers — replace them as real data arrives.",
+    "  24 | 6. **Edit in place.** Fix the row you have instead of starting a new sheet.",
+    "  25 | ",
+    "  26 | ## Quick routes",
+    "  27 | ",
+    "  28 | - Roasting today → **Operations → Roasting Log**",
+    "  29 | - Green coffee arrived → **Sourcing & Inventory → Green Bean Inventory**",
+    "  30 | - New café customer → **Sales & Marketing → Customers & Accounts**",
+    "  31 | - Price a new SKU → **Finance → COGS & Pricing Calculator**, then update the catalog",
+    "  32 | - New hire → **Team → Training Checklist**"
+  ],
+  "content": "# ☕ Coffee Co. — Start Here\n\nWelcome to the roastery's workspace. Everything the business runs on lives here; this page says what goes where.\n\n## The map\n\n| Folder | What lives there |\n| --- | --- |\n| **Operations** | The roasting floor: Roasting Log, Roasting SOP, Equipment Maintenance |\n| **Sourcing & Inventory** | Green Bean Inventory, Supplier Directory, Packaging & Supplies |\n| **Quality Control** | Cupping & QC Log, Brew & Extraction Log |\n| **Sales & Marketing** | Customers & Accounts, Product Catalog & Pricing, Marketing Calendar |\n| **Finance** | Monthly Budget, COGS & Pricing Calculator |\n| **Team** | Team Handbook, Training Checklist |\n| **Plans** | Project & build-out plans |\n\n## Working conventions\n\n1. **Roast log first.** Every batch gets a row in the Roasting Log before bags leave the floor. If it isn't logged, it didn't happen.\n2. **One name per coffee.** Use the same canonical name everywhere (e.g. `Ethiopia Guji Natural`) — inventory, roast log, QC, catalog. Cross-referencing depends on it.\n3. **Dates as `YYYY-MM-DD`.** Sorts correctly everywhere.\n4. **kg for weight, USD for money.** Numbers stored plain (no `$` or commas) so math works; units live in the headers.\n5. **Sample data is fake.** The starter rows use fictional names and numbers — replace them as real data arrives.\n6. **Edit in place.** Fix the row you have instead of starting a new sheet.\n\n## Quick routes\n\n- Roasting today → **Operations → Roasting Log**\n- Green coffee arrived → **Sourcing & Inventory → Green Bean Inventory**\n- New café customer → **Sales & Marketing → Customers & Accounts**\n- Price a new SKU → **Finance → COGS & Pricing Calculator**, then update the catalog\n- New hire → **Team → Training Checklist**"
+}
+
